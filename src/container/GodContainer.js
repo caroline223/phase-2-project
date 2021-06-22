@@ -1,9 +1,11 @@
 import React from 'react';
+import GodCollection from '../components/GodCollection';
 
 class GodContainer extends React.Component {
 
     state = {
-        gods: []
+        gods: [],
+        
     }
 
     componentDidMount(){
@@ -13,17 +15,23 @@ class GodContainer extends React.Component {
             gods: data
         }))
     }
-    godsToRender = () => {
+
+   /* godsToRender = () => {
         return this.state.gods.map((god) => {
-            return <p>{god.name}: {god.romanname}</p>
+            return <p key={god.id}>{god.name}: {god.romanname}</p>
         })
     }
+    */
+
+
 
 render(){
     return (
         <>
             <h1>Welcome to the Gods!</h1>
-            {this.godsToRender()}
+            <h2><a href="http://localhost:3000/form">Click here to add a God!</a></h2>
+            <GodCollection />
+            {/* {this.godsToRender()} */}
         </>
     )
 
