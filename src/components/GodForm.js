@@ -20,6 +20,7 @@ render() {
                     <Form.Input fluid label="Image URL" placeholder="url" name="url"/>
                 </Form.Group>
                 <Form.Button>Submit</Form.Button>
+                <Form.Button><a href="http://localhost:3000/">Home</a></Form.Button>
             </Form>
         </div>
     )
