@@ -1,21 +1,21 @@
 import React from 'react';
 
-class Home extends React.Component {
+class GodContainer extends React.Component {
 
     state = {
-        posts: []
+        gods: []
     }
 
     componentDidMount(){
-        fetch('http://localhost:5000/posts')
+        fetch('http://localhost:5000/gods')
         .then(response => response.json())
         .then(data => this.setState({
-            posts: data
+            gods: data
         }))
     }
     postsToRender = () => {
-        return this.state.posts.map((post) => {
-            return <p>{post.title}</p>
+        return this.state.gods.map((god) => {
+            return <p>{god.name}: {god.romanname}</p>
         })
     }
 
@@ -31,4 +31,4 @@ render(){
 
 }
 
-export default Home;
+export default GodContainer;
