@@ -13,7 +13,7 @@ class GodContainer extends React.Component {
             gods: data
         }))
     }
-    postsToRender = () => {
+    godsToRender = () => {
         return this.state.gods.map((god) => {
             return <p>{god.name}: {god.romanname}</p>
         })
@@ -22,8 +22,8 @@ class GodContainer extends React.Component {
 render(){
     return (
         <>
-            <h1>Hello</h1>
-            {this.postsToRender()}
+            <h1>Welcome to the Gods!</h1>
+            {this.godsToRender()}
         </>
     )
 
