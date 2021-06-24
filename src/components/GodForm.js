@@ -15,6 +15,33 @@ class GodForm extends React.Component {
         power: '',
     }
 
+    handleFormSubmit = (godCollection) => {
+        //creating a fetch request to add a new god to the collection of gods
+        fetch('http://localhost:5000/gods', this.postObjectFromGodCollection(godCollection))
+        .then(response => response.json)
+        .then(this.addNewGodToCollection)
+    }
+
+    postObjectFromGodCollection = (collection) => {
+        return {
+            method: 'POST',
+            headers: {
+                'Content-type' : 'application/json',
+                'Accept' : 'application/json'
+            },
+            body: JSON.stringify({
+                name: collection.name,
+                romanname: collection.romanname,
+                symbol: collection.symbol,
+                father: collection.father,
+                mother: collection.mother,
+                power: collection.power, 
+                url: collection.url
+            })
+        }
+    }
+
+
     handleNameChange = (event) => {
         this.setState({name : event.target.value})
     }
@@ -44,7 +71,6 @@ class GodForm extends React.Component {
 
     handleFormSubmit = (event) => {
         event.preventDefault();
-        this.props.handleFormSubmit( this.state )
         event.target.reset()
     }
 
