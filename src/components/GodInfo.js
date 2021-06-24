@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card } from 'semantic-ui-react';
+import { Card, Image } from 'semantic-ui-react';
 
 class GodInfo extends React.Component {
 
@@ -19,10 +19,10 @@ class GodInfo extends React.Component {
 
     render() {
 
-        const {name, romanname, power, symbol, father, mother } = this.props.gods
+        const {name, romanname, power, symbol, father, mother, url } = this.props.gods
         return(
             <Card>
-                {/* <Image src={url} wrapped ui={false} alt="Not Available" />*/}
+                <Image src={url} wrapped ui={false} alt="Not Available" />
                 <Card.Content>
                     <Card.Header>
                         Greek name: { name } 
