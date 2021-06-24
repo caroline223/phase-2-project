@@ -1,20 +1,15 @@
 import React from 'react';
-import GodInfo from './GodInfo';
+import GodInfo from '../components/GodInfo';
 import { Card } from 'semantic-ui-react'
 
 class GodCollection extends React.Component {
-
-
-    renderGodInfo = () => {
-        return this.props.gods.map(god => {
-            return <GodInfo key={god.id} gods={ god } />
-        })
-    }
+    
+    
 
     render() {
         return (
             <Card.Group itemsPerRow={5}>
-                {this.renderGodInfo()}
+                {this.props.gods.map(godObj => <GodInfo key={godObj.id} gods={ godObj }/>)}
             </Card.Group>
         )
     }
