@@ -4,9 +4,8 @@ import { Card } from 'semantic-ui-react'
 
 class GodCollection extends React.Component {
     
-    
-
     render() {
+        
         return (
             <Card.Group itemsPerRow={5}>
                 {this.props.gods.map(godObj => <GodInfo key={godObj.id} gods={ godObj }/>)}
