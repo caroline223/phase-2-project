@@ -50,7 +50,7 @@ class GodContainer extends React.Component {
 
     filterSearchByInput = (input) => {
         console.log(input)
-        return this.state.gods.filter(god => god.name.toLowerCase().includes(input.toLowerCase()))
+        return this.state.gods.filter(god => god.name.toLowerCase().includes(input.toLowerCase())) 
 
     }
 
