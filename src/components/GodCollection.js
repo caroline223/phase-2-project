@@ -7,7 +7,7 @@ class GodCollection extends React.Component {
     render() {
 
         return (
-            <Card.Group itemsPerRow={4}>
+            <Card.Group itemsPerRow={3}>
                 {this.props.gods.map(godObj => <GodInfo key={godObj.id} gods={ godObj }/>)}
             </Card.Group>
         )

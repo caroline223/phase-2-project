@@ -22,19 +22,17 @@ class GodInfo extends React.Component {
         const {name, romanname, power, symbol, father, mother, url } = this.props.gods
         return(
             <Card>
-                <Image src={url} wrapped ui={false} alt="Not Available" />
+                <Image src={ url } wrapped ui={false} />
                 <Card.Content>
                     <Card.Header>
-                        Greek name: { name } 
-                        <br />
-                        Roman name: { romanname } 
+                       { name } 
                     </Card.Header>
                     <Card.Description>
+                        a.k.a. { romanname }
+                        <br />
                         Symbol: {symbol}
                         <br />
-                        Father: { father }
-                        <br />
-                        Mother: { mother }
+                        Parents: { father } , { mother }
                         <br />
                         Power: { power }
                         <br />
