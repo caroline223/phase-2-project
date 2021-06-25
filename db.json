@@ -7,7 +7,7 @@
       "symbol": "Eros (winged godling), conch-shell",
       "father": "Zeus",
       "mother": "Dione",
-      "url": "http://www.theoi.com/image/K9.3Ares.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Unknown_-_Statuette_of_Aphrodite_Leaning_on_a_Pillar_-_55.AD.7.jpg"
     },
     {
       "name": "Apollo",
@@ -16,7 +16,7 @@
       "symbol": "Lyre, bow",
       "father": "Zeus",
       "mother": "Leto",
-      "url": "http://www.theoi.com/image/K5.2Apollon.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/The_statue_of_Apollo_Citharoedus_on_October_25%2C_2019.jpg"
     },
     {
       "name": "Ares",
@@ -25,7 +25,7 @@
       "symbol": "Helm",
       "father": "Zeus",
       "mother": "Hera",
-      "url": "http://www.theoi.com/image/K9.6Ares.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/%CE%91%CF%81%CE%B7_%CF%80%CE%BF%CE%BB%CE%B5%CE%BC%CE%B9%CE%BA%CE%B1_Ares_dios_de_la_guerra_Mars_god_of_war_Marte_dei_-_Altemps_-_2015.jpg"
     },
     {
       "name": "Artemis",
@@ -43,7 +43,7 @@
       "symbol": "Aegis, gorgoneion",
       "father": "Zeus",
       "mother": "Metis",
-      "url": "http://www.theoi.com/image/K8.3Athena.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Petrovsky_gate_Athena_Polias_in_Saint_Petersburg.jpg"
     },
     {
       "name": "Demeter",
@@ -52,7 +52,7 @@
       "symbol": "Sheaf of grain, cornucopia",
       "father": "Cronus",
       "mother": "Rhea",
-      "url": "http://www.theoi.com/image/K3.2Demeter.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Demeter_Altemps_Inv8546.jpg"
     },
     {
       "name": "Dionysus",
@@ -61,16 +61,16 @@
       "symbol": "Thyrsus (pine-cone staff)",
       "father": "Zeus",
       "mother": "Semele",
-      "url": "http://www.theoi.com/image/Z12.1Dionysos.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Statue_of_Old_Bacchus_Dionysus%2C_God_of_Wine_and_Drink_%2848465355197%29.jpg"
     },
     {
       "name": "Hephaestus",
       "romanname": "Vulcan",
       "power": "Smiths, fire, metalworking",
       "symbol": "Hammer & tongs",
-      "father": "None",
+      "father": "No father",
       "mother": "Hera",
-      "url": "http://www.theoi.com/image/K7.1Hephaistos.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Vulcanus_met_hamers_en_aambeeld_Goden_en_Godinnen_%28serietitel%29%2C_RP-P-1951-178S.jpg"
     },
     {
       "name": "Hera",
@@ -79,7 +79,7 @@
       "symbol": "Royal sceptre",
       "father": "Cronus",
       "mother": "Rhea",
-      "url": "http://www.theoi.com/image/K4.7Hera.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hera_Campana_Louvre_Ma2283.jpg"
     },
     {
       "name": "Hermes",
@@ -88,16 +88,16 @@
       "symbol": "Caduceus (herald's wand)",
       "father": "Zeus",
       "mother": "Maia",
-      "url": "http://www.theoi.com/image/K11.11Hermes.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Hermes_Ingenui_Pio-Clementino_Inv544.jpg"
     },
     {
       "name": "Poseidon",
-      "romanname": "Neptune, ",
+      "romanname": "Neptune",
       "power": "King of the Sea, earthquakes, floods, horses",
       "symbol": " Trident, Bull, horse, dolphin",
       "father": "Cronus",
       "mother": "Rhea",
-      "url": "http://www.theoi.com/image/Z2.1Poseidon.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lateran_Poseidon.jpg"
     },
     {
       "name": "Zeus",
@@ -106,7 +106,7 @@
       "symbol": "Lightning bolt, eagle, bull",
       "father": "Cronus",
       "mother": "Rhea",
-      "url": "http://www.theoi.com/image/K1.1Zeus.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Marble_ZEUS.jpg"
     },
     {
       "name": "Asclepius",
@@ -115,7 +115,7 @@
       "symbol": "Serpent-entwined staff",
       "father": "Apollo",
       "mother": "Coronis",
-      "url": "http://www.theoi.com/image/S23.1Asklepios.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Asclepius%2C_plaster_cast%2C_AM_of_Epidaurus%2C_202521.jpg"
     },
     {
       "name": "Charites",
@@ -133,7 +133,7 @@
       "symbol": "Torch",
       "father": "Zeus",
       "mother": "Hera",
-      "url": "http://www.theoi.com/image/img_eileithyia.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Okeanos_London_1971.11-1.1.jpg"
     },
     {
       "name": "Eros",
@@ -142,7 +142,7 @@
       "symbol": "Bow",
       "father": "arrow",
       "mother": "Aphrodite",
-      "url": "http://www.theoi.com/image/K32.1Eros.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Eros_-_God_of_Love%2C_son_of_Aphrodite.jpg"
     },
     {
       "name": "Hebe",
@@ -151,7 +151,7 @@
       "symbol": "Cup, pitcher",
       "father": "Zeus",
       "mother": "Hera",
-      "url": "http://www.theoi.com/image/K18.1Hebe.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Laurent_Marqueste_-_H%C3%A9b%C3%A9.jpg"
     },
     {
       "name": "Hestia",
@@ -160,7 +160,7 @@
       "symbol": "Kettle",
       "father": "Cronus",
       "mother": "Rhea",
-      "url": "http://www.theoi.com/image/K13.2Hestia.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Vesta_%28PSF%29.png"
     },
     {
       "name": "Horae",
@@ -214,7 +214,7 @@
       "symbol": "Lyre, cithara, flute",
       "father": "Zeus",
       "mother": "Mnemosyne",
-      "url": "http://www.theoi.com/image/K20.1CMousa.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Terpsichore_MET_DP854977.jpg"
     },
     {
       "name": "Nike",
@@ -232,7 +232,7 @@
       "symbol": "Tripod",
       "father": "Uranus",
       "mother": "Gaea",
-      "url": "http://www.theoi.com/image/T8.1Themis.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/0029MAN-Themis.jpg"
     },
     {
       "name": "Tyche",
@@ -241,7 +241,7 @@
       "symbol": "Cornucopia, rudder",
       "father": "Oceanus",
       "mother": "Tethys",
-      "url": "http://www.theoi.com/image/N16.1Nemesis.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Tyche_Pluto_Prusias_ad_Hypium_IstArchMu451b.jpg"
     },
     {
       "name": "Atlas",
@@ -250,7 +250,7 @@
       "symbol": "Celestial sphere",
       "father": "Iapetus",
       "mother": "Clymene",
-      "url": "http://www.theoi.com/image/T20.1Titanes.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/GandharanAtlas.JPG"
     },
     {
       "name": "Cronus",
@@ -259,7 +259,7 @@
       "symbol": "Sickle",
       "father": "Uranus",
       "mother": "Gaea",
-      "url": "http://www.theoi.com/image/T6.1Kronos.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Saturnus_Satvrnvs_%28titel_op_object%29_Zeven_planeetgoden_%28serietitel%29_Septem_Planetae_%28serietitel%29%2C_RP-P-BI-6090A.jpg"
     },
     {
       "name": "Mnemosyne",
@@ -277,7 +277,7 @@
       "symbol": "Serpent, fish",
       "father": "Uranus",
       "mother": "Gaea",
-      "url": "http://www.theoi.com/image/O1.1Okeanos.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Oceanus_at_Trevi.JPG"
     },
     {
       "name": "Prometheus",
@@ -286,7 +286,7 @@
       "symbol": "None",
       "father": "Iapetus",
       "mother": "Clymene",
-      "url": "http://www.theoi.com/image/T20.1Titanes.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Prometheus_by_Gustave_Moreau.jpg"
     },
     {
       "name": "Rhea",
@@ -295,7 +295,7 @@
       "symbol": "Turret crown, cymbal",
       "father": "Uranus",
       "mother": "Gaea",
-      "url": "http://www.theoi.com/image/T7.1Rhea.jpg"
+      "url": "hhttps://upload.wikimedia.org/wikipedia/commons/9/9b/A_classical_dictionary_of_Greek_and_Roman_biography...revised.._%281894%29_%2814596538997%29.jpg"
     },
     {
       "name": "Tethys",
@@ -331,7 +331,7 @@
       "symbol": "Two torches",
       "father": "Perses",
       "mother": "Asteria",
-      "url": "http://www.theoi.com/image/img_hekate.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Hecate%2C_Greek_goddess_of_the_crossroads_by_St%C3%A9phane_Mallarm%C3%A9.jpg"
     },
     {
       "name": "Helius",
@@ -340,7 +340,7 @@
       "symbol": "Aureole",
       "father": "Hyperion",
       "mother": "Thea",
-      "url": "http://www.theoi.com/image/T17.1Helios.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Sol_%28de_Zon%29%2C_BK-1977-24.jpg"
     },
     {
       "name": "Selene",
@@ -349,7 +349,7 @@
       "symbol": "Lunar disc or crescent, bull's horns",
       "father": "Hyperion",
       "mother": "Thea",
-      "url": "http://www.theoi.com/image/T18.1Selene.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Selene_%28the_goddess_of_the_moon%29%2C_The_Silahtara%C4%9Fa_statues_group_representing_the_Battle_of_the_Gods_and_Giants_%28Gigantomachy%29%2C_Istanbul_Archeology_Museum_%2846100832541%29.jpg"
     },
     {
       "name": "Ananke",
@@ -358,7 +358,7 @@
       "symbol": "Torch",
       "father": "Hydros",
       "mother": "Gaea",
-      "url": "http://www.theoi.com/image/N2.1Ananke.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Greek_goddess_Ananke_Illustration_in_2019.jpg"
     },
     {
       "name": "Chronos Aeon",
