@@ -19,7 +19,7 @@ class HeroInfo extends React.Component {
 
     render() {
 
-        const {name, herotype, power, father, mother, url, home } = this.props.heroes
+        const {name, herotype, power, father, mother, url, home, description } = this.props.heroes
         return(
             <Card>
                 <Image src={ url } wrapped ui={false} />
@@ -36,6 +36,7 @@ class HeroInfo extends React.Component {
                         <br />
                         Power: { power }
                         <br />
+                        Description: { description }
                     </Card.Description>
                 </Card.Content>
             </Card>
