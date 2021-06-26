@@ -1,5 +1,5 @@
 import React from 'react';
-import GodInfo from '../components/GodInfo';
+import GodInfo from '../GodComponents/GodInfo';
 import { Card } from 'semantic-ui-react'
 
 class GodCollection extends React.Component {

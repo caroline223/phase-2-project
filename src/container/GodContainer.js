@@ -1,6 +1,6 @@
 import React from 'react';
-import GodCollection from '../components/GodCollection';
-import GodSearch from '../components/GodSearch'
+import GodCollection from '../components/GodComponents/GodCollection';
+import GodSearch from '../components/GodComponents/GodSearch'
 import { Container } from 'semantic-ui-react';
 
 class GodContainer extends React.Component {

@@ -7,7 +7,8 @@
       "symbol": "Eros (winged godling), conch-shell",
       "father": "Zeus",
       "mother": "Dione",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Unknown_-_Statuette_of_Aphrodite_Leaning_on_a_Pillar_-_55.AD.7.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Unknown_-_Statuette_of_Aphrodite_Leaning_on_a_Pillar_-_55.AD.7.jpg",
+      "description": "Aphrodite is the ancient Greek goddess of sexual love and beauty, identified with Venus by the Romans. She was known primarily as a goddess of love and fertility and occasionally presided over marriage."
     },
     {
       "name": "Apollo",
@@ -16,7 +17,8 @@
       "symbol": "Lyre, bow",
       "father": "Zeus",
       "mother": "Leto",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/The_statue_of_Apollo_Citharoedus_on_October_25%2C_2019.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/The_statue_of_Apollo_Citharoedus_on_October_25%2C_2019.jpg",
+      "description": "Apollo has been recognized as a god of archery, music and dance, truth and prophecy, healing and diseases, the Sun and light, poetry, and more."
     },
     {
       "name": "Ares",
@@ -25,7 +27,8 @@
       "symbol": "Helm",
       "father": "Zeus",
       "mother": "Hera",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/%CE%91%CF%81%CE%B7_%CF%80%CE%BF%CE%BB%CE%B5%CE%BC%CE%B9%CE%BA%CE%B1_Ares_dios_de_la_guerra_Mars_god_of_war_Marte_dei_-_Altemps_-_2015.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/%CE%91%CF%81%CE%B7_%CF%80%CE%BF%CE%BB%CE%B5%CE%BC%CE%B9%CE%BA%CE%B1_Ares_dios_de_la_guerra_Mars_god_of_war_Marte_dei_-_Altemps_-_2015.jpg",
+      "description": "Ares is the Greek god of courage and war. He is one of the Twelve Olympians, and the son of Zeus and Hera. "
     },
     {
       "name": "Artemis",
@@ -34,7 +37,8 @@
       "symbol": "Bow and arrows",
       "father": "Zeus",
       "mother": "Leto",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Artemision_Bronze_-_National_Archaeological_Museum%2C_Athens_by_Joy_of_Museum.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Artemision_Bronze_-_National_Archaeological_Museum%2C_Athens_by_Joy_of_Museum.jpg",
+      "description": "Artemis is the goddess of wild animals, the hunt, and vegetation and of chastity and childbirth; she was identified by the Romans with Diana. Among the rural populace, Artemis was the favourite goddess. "
     },
     {
       "name": "Athena",
@@ -43,7 +47,8 @@
       "symbol": "Aegis, gorgoneion",
       "father": "Zeus",
       "mother": "Metis",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Petrovsky_gate_Athena_Polias_in_Saint_Petersburg.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Petrovsky_gate_Athena_Polias_in_Saint_Petersburg.jpg",
+      "description": "Athena is the Olympian goddess of wisdom and war and the adored patroness of the city of Athens. A virgin deity, she was also – somewhat paradoxically – associated with peace and handicrafts, especially spinning and weaving."
     },
     {
       "name": "Demeter",
@@ -52,7 +57,8 @@
       "symbol": "Sheaf of grain, cornucopia",
       "father": "Cronus",
       "mother": "Rhea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Demeter_Altemps_Inv8546.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Demeter_Altemps_Inv8546.jpg",
+      "description": "Demeter is the sister and consort of Zeus (the king of the gods), and goddess of agriculture. Her name indicates that she is a mother. The legend centers on the story of her daughter Persephone, who is carried off by Hades, the god of the underworld."
     },
     {
       "name": "Dionysus",
@@ -61,7 +67,8 @@
       "symbol": "Thyrsus (pine-cone staff)",
       "father": "Zeus",
       "mother": "Semele",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Statue_of_Old_Bacchus_Dionysus%2C_God_of_Wine_and_Drink_%2848465355197%29.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Statue_of_Old_Bacchus_Dionysus%2C_God_of_Wine_and_Drink_%2848465355197%29.jpg",
+      "description": "Dionysus is the god of the grape-harvest, winemaking and wine, of fertility, orchards and fruit, vegetation, insanity, ritual madness, religious ecstasy, festivity and theatre."
     },
     {
       "name": "Hephaestus",
@@ -70,7 +77,8 @@
       "symbol": "Hammer & tongs",
       "father": "No father",
       "mother": "Hera",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Vulcanus_met_hamers_en_aambeeld_Goden_en_Godinnen_%28serietitel%29%2C_RP-P-1951-178S.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Vulcanus_met_hamers_en_aambeeld_Goden_en_Godinnen_%28serietitel%29%2C_RP-P-1951-178S.jpg",
+      "description": "Hephaestus was the god of fire, metalworking, stone masonry, forges and the art of sculpture. He was the son of Zeus and Hera and married to Aphrodite by Zeus to prevent a war of the gods fighting for her hand. He was a smithing god, making all of the weapons for Olympus and acting as a blacksmith for the gods."
     },
     {
       "name": "Hera",
@@ -79,7 +87,8 @@
       "symbol": "Royal sceptre",
       "father": "Cronus",
       "mother": "Rhea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hera_Campana_Louvre_Ma2283.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hera_Campana_Louvre_Ma2283.jpg",
+      "description": "Hera is the goddess of women, marriage, family and childbirth in ancient Greek religion and mythology, one of the twelve Olympians and the sister and wife of Zeus."
     },
     {
       "name": "Hermes",
@@ -88,7 +97,8 @@
       "symbol": "Caduceus (herald's wand)",
       "father": "Zeus",
       "mother": "Maia",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Hermes_Ingenui_Pio-Clementino_Inv544.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Hermes_Ingenui_Pio-Clementino_Inv544.jpg",
+      "description": "Hermes is considered the herald of the gods. He is also considered the protector of human heralds, travellers, thieves,[3] merchants, and orators."
     },
     {
       "name": "Poseidon",
@@ -97,7 +107,8 @@
       "symbol": " Trident, Bull, horse, dolphin",
       "father": "Cronus",
       "mother": "Rhea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lateran_Poseidon.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lateran_Poseidon.jpg",
+      "description": "Poseidon god of the sea (and of water generally), earthquakes, and horses. He is distinguished from Pontus, the personification of the sea and the oldest Greek divinity of the waters."
     },
     {
       "name": "Zeus",
@@ -106,7 +117,8 @@
       "symbol": "Lightning bolt, eagle, bull",
       "father": "Cronus",
       "mother": "Rhea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Marble_ZEUS.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Marble_ZEUS.jpg",
+      "description": "Zeus is the sky and thunder god in ancient Greek religion, who rules as king of the gods of Mount Olympus. His name is cognate with the first element of his Roman equivalent Jupiter."
     },
     {
       "name": "Asclepius",
@@ -115,7 +127,8 @@
       "symbol": "Serpent-entwined staff",
       "father": "Apollo",
       "mother": "Coronis",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Asclepius%2C_plaster_cast%2C_AM_of_Epidaurus%2C_202521.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Asclepius%2C_plaster_cast%2C_AM_of_Epidaurus%2C_202521.jpg",
+      "description": "Asclepius or Hepius is a hero and god of medicine in ancient Greek religion and mythology. He was associated with the Roman/Etruscan god Vediovis and the Egyptian Imhotep."
     },
     {
       "name": "Charites",
@@ -124,7 +137,8 @@
       "symbol": "None",
       "father": "Zeus",
       "mother": "Eurynome",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg",
+      "description": "In Greek mythology, a Charis or Grace is one of three or more goddesses of charm, beauty, nature, human creativity, goodwill, and fertility, together known as the Charites or Graces. "
     },
     {
       "name": "Eileithyia",
@@ -133,7 +147,8 @@
       "symbol": "Torch",
       "father": "Zeus",
       "mother": "Hera",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Okeanos_London_1971.11-1.1.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Okeanos_London_1971.11-1.1.jpg",
+      "description": "Eileithyia was the goddess of childbirth and labour pains. She was depicted as a woman wielding a torch, representing the burning pains of childbirth, or with her arms raised in the air to bring the child to the light. "
     },
     {
       "name": "Eros",
@@ -142,7 +157,8 @@
       "symbol": "Bow",
       "father": "arrow",
       "mother": "Aphrodite",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Eros_-_God_of_Love%2C_son_of_Aphrodite.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Eros_-_God_of_Love%2C_son_of_Aphrodite.jpg",
+      "description": "Eros is the god of love. Eros was a god not simply of passion but also of fertility. His brother was Anteros, the god of mutual love, who was sometimes described as his opponent. "
     },
     {
       "name": "Hebe",
@@ -151,7 +167,8 @@
       "symbol": "Cup, pitcher",
       "father": "Zeus",
       "mother": "Hera",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Laurent_Marqueste_-_H%C3%A9b%C3%A9.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Laurent_Marqueste_-_H%C3%A9b%C3%A9.jpg",
+      "description": "Hebe in ancient Greek religion, is the goddess of youth or the prime of life."
     },
     {
       "name": "Hestia",
@@ -160,7 +177,8 @@
       "symbol": "Kettle",
       "father": "Cronus",
       "mother": "Rhea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Vesta_%28PSF%29.png"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Vesta_%28PSF%29.png",
+      "description": "Hestia goddess of the hearth, daughter of Cronus and Rhea, and one of the 12 Olympian deities. When the gods Apollo and Poseidon became suitors for her hand she swore to remain a maiden forever, whereupon Zeus, the king of the gods, bestowed upon her the honour of presiding over all sacrifices."
     },
     {
       "name": "Horae",
@@ -169,7 +187,8 @@
       "symbol": "Fruit",
       "father": "Zeus",
       "mother": "Themis",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg",
+      "description": "The Horae were the goddesses of the seasons and the natural portions of time. They presided over the revolutions of the heavenly constellations by which the year was measured, while their three sisters, the Moirae (Moirae) spinned out the web of fate."
     },
     {
       "name": "Hygeia",
@@ -178,7 +197,8 @@
       "symbol": "Snake",
       "father": "Asclepius",
       "mother": "Epione",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg",
+      "description": "Hygieia is a goddess from Greek, as well as Roman, mythology. Hygieia is a goddess of health, cleanliness and hygiene. Her name is the source for the word 'hygiene'. "
     },
     {
       "name": "Iris",
@@ -187,7 +207,8 @@
       "symbol": "Herald's wand",
       "father": "Thaumas",
       "mother": "Electra",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg",
+      "description": "Iris is the personification and goddess of the rainbow and messenger of the gods."
     },
     {
       "name": "Leto",
@@ -196,7 +217,8 @@
       "symbol": "Veil",
       "father": "Coeus",
       "mother": "Phoebe",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg",
+      "description": "Leto was one of the Titanides, a bride of Zeus, and the mother of the twin gods Apollon and Artemis. She was the goddess of motherhood and, with her children, a protectress of the young. Her name and iconography suggest she was also a goddess of modesty and womanly demure. "
     },
     {
       "name": "Moirae",
@@ -205,7 +227,8 @@
       "symbol": "Spindle,thread, shears",
       "father": "Zeus",
       "mother": "Themis",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Schadow_Grabmal_Alexander_2.jpg/1024px-Schadow_Grabmal_Alexander_2.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Schadow_Grabmal_Alexander_2.jpg/1024px-Schadow_Grabmal_Alexander_2.jpg",
+      "description": "The Moirae ere the three goddesses of fate who personified the inescapable destiny of man. They assigned to every person his or her fate or share in the scheme of things. "
     },
     {
       "name": "Muses",
@@ -214,7 +237,8 @@
       "symbol": "Lyre, cithara, flute",
       "father": "Zeus",
       "mother": "Mnemosyne",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Terpsichore_MET_DP854977.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Terpsichore_MET_DP854977.jpg",
+      "description": "The Muses were each of nine goddesses, the daughters of Zeus and Mnemosyne, who preside over the arts and sciences."
     },
     {
       "name": "Nike",
@@ -223,7 +247,8 @@
       "symbol": "Palm branch, wings",
       "father": "Pallas",
       "mother": "Styx",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg",
+      "description": "Nike was the winged goddess of victory--victory both in war and in peaceful competition. When Zeus was gathering allies at the start of the Titan War, Styx brought her four children Nike (Victory), Zelos (Rivalry), Kratos (Cratus Strength) and Bia (Force) into the god's service."
     },
     {
       "name": "Themis",
@@ -232,7 +257,8 @@
       "symbol": "Tripod",
       "father": "Uranus",
       "mother": "Gaea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/0029MAN-Themis.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/0029MAN-Themis.jpg",
+      "description": "Themis is the personification of justice, goddess of wisdom and good counsel, and the interpreter of the gods' will. On Olympus, Themis maintained order and supervised the ceremonial. "
     },
     {
       "name": "Tyche",
@@ -241,7 +267,8 @@
       "symbol": "Cornucopia, rudder",
       "father": "Oceanus",
       "mother": "Tethys",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Tyche_Pluto_Prusias_ad_Hypium_IstArchMu451b.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Tyche_Pluto_Prusias_ad_Hypium_IstArchMu451b.jpg",
+      "description": "Tyche is  the goddess of chance, with whom the Roman Fortuna was later identified; a capricious dispenser of good and ill fortune. "
     },
     {
       "name": "Atlas",
@@ -250,7 +277,8 @@
       "symbol": "Celestial sphere",
       "father": "Iapetus",
       "mother": "Clymene",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/GandharanAtlas.JPG"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/GandharanAtlas.JPG",
+      "description": "Atlas was one of the most famous Titans, the son of Iapetus and the Oceanid Asia (or, possibly, Clymene). He was the leader of the Titan rebellion against Zeus, and he got a fitting punishment after the end of the Titanomachy: he was condemned to eternally hold up the sky."
     },
     {
       "name": "Cronus",
@@ -259,7 +287,8 @@
       "symbol": "Sickle",
       "father": "Uranus",
       "mother": "Gaea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Saturnus_Satvrnvs_%28titel_op_object%29_Zeven_planeetgoden_%28serietitel%29_Septem_Planetae_%28serietitel%29%2C_RP-P-BI-6090A.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Saturnus_Satvrnvs_%28titel_op_object%29_Zeven_planeetgoden_%28serietitel%29_Septem_Planetae_%28serietitel%29%2C_RP-P-BI-6090A.jpg",
+      "description": "Cronus was the King of the Titanes and the god of time, in particular time when viewed as a destructive, all-devouring force. He ruled the cosmos during the Golden Age after castrating and deposing his father Ouranos (Uranus, Sky)."
     },
     {
       "name": "Mnemosyne",
@@ -268,7 +297,8 @@
       "symbol": "Mount Pieria",
       "father": "Uranus",
       "mother": "Gaea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg",
+      "description": "in Greek mythology, the goddess of memory. A Titaness, she was the daughter of Uranus (Heaven) and Gaea (Earth), and, according to Hesiod, the mother (by Zeus) of the nine Muses. She gave birth to the Muses after Zeus went to Pieria and stayed with her nine consecutive nights."
     },
     {
       "name": "Oceanus",
@@ -277,7 +307,8 @@
       "symbol": "Serpent, fish",
       "father": "Uranus",
       "mother": "Gaea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Oceanus_at_Trevi.JPG"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Oceanus_at_Trevi.JPG",
+      "description": "Oceanus was the oldest Titan, the son of Uranus (Heaven) and Gaea (Earth), the husband of the Titan Tethys, and father of 3,000 stream spirits and 3,000 ocean nymphs."
     },
     {
       "name": "Prometheus",
@@ -286,7 +317,8 @@
       "symbol": "None",
       "father": "Iapetus",
       "mother": "Clymene",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Prometheus_by_Gustave_Moreau.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Prometheus_by_Gustave_Moreau.jpg",
+      "description": "Prometheus one of the Titans, the supreme trickster, and a god of fire. His intellectual side was emphasized by the apparent meaning of his name, Forethinker. In common belief he developed into a master craftsman, and in this connection he was associated with fire and the creation of mortals."
     },
     {
       "name": "Rhea",
@@ -295,7 +327,8 @@
       "symbol": "Turret crown, cymbal",
       "father": "Uranus",
       "mother": "Gaea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/A_classical_dictionary_of_Greek_and_Roman_biography...revised.._%281894%29_%2814596538997%29.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/A_classical_dictionary_of_Greek_and_Roman_biography...revised.._%281894%29_%2814596538997%29.jpg",
+      "description": "Rhea is a goddess in Greek mythology, the Titaness daughter of the earth goddess Gaia and the sky god Uranus, Gaia's son. She is the older sister of Cronus, who was also her consort."
     },
     {
       "name": "Tethys",
@@ -304,7 +337,8 @@
       "symbol": "Winged brow",
       "father": "Uranus",
       "mother": "Gaea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg",
+      "description": "Tethys was the Greek goddess of freshwater who bore six thousand children to her husband Oceanus. Those children became the rulers of all rivers, streams, lakes, and rain clouds. She was also a devoted mentor and caretaker of Hera who would become Zeus's wife, and the grandmother of the popular goddess Athena."
     },
     {
       "name": "Asteria",
@@ -313,7 +347,8 @@
       "symbol": "None",
       "father": "Coeus",
       "mother": "Phoebe",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg",
+      "description": "Asteria A was the Titan goddess of falling stars and perhaps of nighttime divinations such as oneiromancy (by dreams) and astrology (by stars). Asteria is depicted in Athenian vase-painting alongside the other Delian gods--Apollon, Artemis and Leto. She is often labelled 'Delos'."
     },
     {
       "name": "Eos",
@@ -322,7 +357,8 @@
       "symbol": "None",
       "father": "Hyperion",
       "mother": "Thea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg",
+      "description": "Eos, Roman Aurora, in Greco-Roman mythology, the personification of the dawn. According to the Greek poet Hesiod's Theogony, she was the daughter of the Titan Hyperion and the Titaness Theia and sister of Helios, the sun god, and Selene, the moon goddess."
     },
     {
       "name": "Hecate",
@@ -331,16 +367,18 @@
       "symbol": "Two torches",
       "father": "Perses",
       "mother": "Asteria",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Hecate%2C_Greek_goddess_of_the_crossroads_by_St%C3%A9phane_Mallarm%C3%A9.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Hecate%2C_Greek_goddess_of_the_crossroads_by_St%C3%A9phane_Mallarm%C3%A9.jpg",
+      "description": "Hecate was the chief goddess presiding over magic and spells. She witnessed the abduction of Demeter's daughter Persephone to the underworld and, torch in hand, assisted in the search for her. Thus, pillars called Hecataea stood at crossroads and doorways, perhaps to keep away evil spirits."
     },
     {
-      "name": "Helius",
+      "name": "Helius (Helios)",
       "romanname": "Sol",
       "power": "The sun, sight",
       "symbol": "Aureole",
       "father": "Hyperion",
       "mother": "Thea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Sol_%28de_Zon%29%2C_BK-1977-24.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Sol_%28de_Zon%29%2C_BK-1977-24.jpg",
+      "description": "Helius was the god of the Sun in Greek mythology. He was thought to ride a golden chariot which brought the Sun across the skies each day from the east (Ethiopia) to the west (Hesperides) while at night he did the return journey in leisurely fashion lounging in a golden cup."
     },
     {
       "name": "Selene",
@@ -349,7 +387,8 @@
       "symbol": "Lunar disc or crescent, bull's horns",
       "father": "Hyperion",
       "mother": "Thea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Selene_%28the_goddess_of_the_moon%29%2C_The_Silahtara%C4%9Fa_statues_group_representing_the_Battle_of_the_Gods_and_Giants_%28Gigantomachy%29%2C_Istanbul_Archeology_Museum_%2846100832541%29.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Selene_%28the_goddess_of_the_moon%29%2C_The_Silahtara%C4%9Fa_statues_group_representing_the_Battle_of_the_Gods_and_Giants_%28Gigantomachy%29%2C_Istanbul_Archeology_Museum_%2846100832541%29.jpg",
+      "description": "Selene is the goddess of the Moon. She is the daughter of the Titans Hyperion and Theia, and sister of the sun god Helios and the dawn goddess Eos.  In classical times, Selene was often identified with Artemis, much as her brother, Helios, was identified with Apollo. Selene and Artemis were also associated with Hecate and all three were regarded as moon and lunar goddesses, but only Selene was regarded as the personification of the Moon itself.   "
     },
     {
       "name": "Ananke",
@@ -358,7 +397,8 @@
       "symbol": "Torch",
       "father": "Hydros",
       "mother": "Gaea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Greek_goddess_Ananke_Illustration_in_2019.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Greek_goddess_Ananke_Illustration_in_2019.jpg",
+      "description": "Ananke was the primordial goddess (protogenos) of necessity, compulsion and inevitability. Ananke and her mate Khronos (Chronos) (Time), their serpentine coils entwined, crushed the primal egg of creation splitting it into its constituent parts of earth, heaven and sea to form the ordered universe."
     },
     {
       "name": "Chronos Aeon",
@@ -367,7 +407,8 @@
       "symbol": "Zodiac-wheel",
       "father": "Hydros",
       "mother": "Gaea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg",
+      "description": "Chronos was the primordial god of time. In the Orphic cosmogony he emerged self-formed at the dawn of creation."
     },
     {
       "name": "Gaea",
@@ -376,7 +417,8 @@
       "symbol": "Fruit and grain",
       "father": "None",
       "mother": "None",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Feuerbach_Gaea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Feuerbach_Gaea.jpg",
+      "description": "Gaea is personification of the Earth as a goddess. Mother and wife of Uranus (Heaven), from whom the Titan Cronus, her last-born child by him, separated her, she was also mother of the other Titans, the Gigantes, the Erinyes, and the Cyclopes (see giant; Furies; Cyclops)."
     },
     {
       "name": "Hemera",
@@ -385,7 +427,8 @@
       "symbol": "None",
       "father": "Erebus",
       "mother": "Nyx",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Aphrodisias_Museum_Hemera_or_Day_4627.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Aphrodisias_Museum_Hemera_or_Day_4627.jpg",
+      "description": "Hemera was the personification of day and one of the Greek primordial deities. She is the goddess of the daytime and, according to Hesiod, the daughter of Erebus and Nyx (the goddess of night)."
     },
     {
       "name": "Nyx",
@@ -394,7 +437,8 @@
       "symbol": "None",
       "father": "None",
       "mother": "Chaos",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg", 
+      "description": "Nyx is the emale personification of night but also a great cosmogonical figure, feared even by Zeus, the king of the gods, as related in Homer's Iliad, Book XIV."
     },
     {
       "name": "Ourea",
@@ -403,7 +447,8 @@
       "symbol": "None",
       "father": "None",
       "mother": "Gaea",
-      "url": "http://www.greekmythology.com/images/mythology/ourea_189.jpg"
+      "url": "http://www.greekmythology.com/images/mythology/ourea_189.jpg",
+      "description": "The Ourea were primordial deities in Greek mythology, children of Gaia alone. They represented the mountains of the world that was known to Greeks at the time. The ten Ourea were Aitna, Athos, Helikon, Kithairon, Nysos, Olympus 1, Olympus 2, Oreios, Parnes, and Tmolus."
     },
     {
       "name": "Pontus",
@@ -412,7 +457,8 @@
       "symbol": "None",
       "father": "None",
       "mother": "Gaea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg", 
+      "description": "Pontus was the primordial god (protogenos) of the sea. He was the sea itself, not merely its resident deity, who was born from earth at the dawn of creation. Pontos and Gaia (Gaea, the Earth) were parents of the ancient deities known as the Old Men of the Sea."
     },
     {
       "name": "Thalassa",
@@ -421,7 +467,8 @@
       "symbol": "None",
       "father": "Aether",
       "mother": "Hemera",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Hatay_thalassa.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Hatay_thalassa.jpg",
+      "description": "Thalassa was the primordial goddess (protogenos) of the sea. Mingled with Pontos (Pontus), her male counterpart, she produced the fish and other sea creatures. Thalassa was the literal body of the sea and in the fables of Aesop, manifests as a woman formed of sea-water rising from her native element."
     },
     {
       "name": "Uranus",
@@ -430,7 +477,8 @@
       "symbol": "Zodiac wheel",
       "father": "None",
       "mother": "Gaea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/The_Mutilation_of_Uranus_by_Saturn.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/The_Mutilation_of_Uranus_by_Saturn.jpg",
+      "description": "Uranus is the sky god and first ruler. He is the son of Gaea, who created him without help. He then became the husband of Gaea and together they had many offspring, including twelve of the Titans."
     },
     {
       "name": "Cerberus",
@@ -439,7 +487,8 @@
       "symbol": "Three-headed dog, mane of serpents",
       "father": "Typhoeus",
       "mother": "Echidna",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg",
+      "description": "The primary job of Cerberus in Greek mythology was as a watchdog for the underworld. He was also a faithful servant to Hades, who was the god of the underworld. Cerberus is most often depicted moving along the banks of the river Styx."
     },
     {
       "name": "Charon",
@@ -448,7 +497,8 @@
       "symbol": "Skiff",
       "father": "Erebus",
       "mother": "Nyx",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Outlines_of_ancient_and_modern_history%2C_on_a_new_plan_%281839%29_%2814596058207%29.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Outlines_of_ancient_and_modern_history%2C_on_a_new_plan_%281839%29_%2814596058207%29.jpg",
+      "description": "n Greek mythology and Roman mythology, Charon or Kharon is a psychopomp, the ferryman of Hades who carries souls of the newly deceased across the river Styx that divided the world of the living from the world of the dead."
     },
     {
       "name": "Erinyes",
@@ -457,7 +507,8 @@
       "symbol": "Vipers",
       "father": "Gaea",
       "mother": "the blood of Uranus",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Altemps%2C_sleeping_Erinyes_03.JPG"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Altemps%2C_sleeping_Erinyes_03.JPG",
+      "description": "The Erinyes were three goddesses of vengeance and retribution who punished men for crimes against the natural order. They were particularly concerned with homicide, unfilial conduct, offenses against the gods, and perjury. A victim seeking justice could call down the curse of the Erinys upon the criminal."
     },
     {
       "name": "Hades",
@@ -466,7 +517,8 @@
       "symbol": "Royal sceptre, cornucopia",
       "father": "Cronus",
       "mother": "Rhea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg",
+      "description": "Hades, Greek Aïdes (“the Unseen”), also called Pluto or Pluton (“the Wealthy One” or “the Giver of Wealth”), in ancient Greek religion, god of the underworld. Hades was a son of the Titans Cronus and Rhea, and brother of the deities Zeus, Poseidon, Demeter, Hera, and Hestia."
     },
     {
       "name": "Hypnos",
@@ -475,7 +527,8 @@
       "symbol": "None",
       "father": "None",
       "mother": "Nyx",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Hypnos%2C_plaster_cast%2C_Cambridge_Museum_of_Classical_Archaeology%2C_154260.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Hypnos%2C_plaster_cast%2C_Cambridge_Museum_of_Classical_Archaeology%2C_154260.jpg",
+      "description": "Hypnos was a primordial deity in Greek mythology, the personification of sleep. He lived in a cave next to his twin brother, Thanatos, in the underworld, where no light was cast by the sun or the moon; the earth in front of the cave was full of poppies and other sleep-inducing plants."
     },
     {
       "name": "Persephone",
@@ -484,7 +537,8 @@
       "symbol": "Torch",
       "father": "Zeus",
       "mother": "Demeter",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Benno_Elkan_Persephone.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Benno_Elkan_Persephone.jpg",
+      "description": "According to Greek Mythology, Persephone, the queen of the underworld, was the daughter of Zeus and Demeter, the goddess of harvest and fertility. She was also called Kore, which means 'maiden' and grew up to be a lovely girl attracting the attention of many gods."
     },
     {
       "name": "Thanatos",
@@ -493,7 +547,8 @@
       "symbol": "Sword",
       "father": "None",
       "mother": "Nyx",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Thanatos_from_Olbia_1.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Thanatos_from_Olbia_1.jpg",
+      "description": "Thanatos, in ancient Greek religion and mythology, the personification of death. Thanatos was the son of Nyx, the goddess of night, and the brother of Hypnos, the god of sleep. He appeared to humans to carry them off to the underworld when the time allotted to them by the Fates had expired."
     },
     {
       "name": "Amphitrite",
@@ -502,7 +557,8 @@
       "symbol": "Fish, dolphin",
       "father": "Nereus",
       "mother": "Thetis",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Amphitrite_Collet2.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Amphitrite_Collet2.jpg",
+      "description": "Amphitrite, in Greek mythology, the goddess of the sea, wife of the god Poseidon, and one of the 50 (or 100) daughters (the Nereids) of Nereus and Doris (the daughter of Oceanus). Poseidon chose Amphitrite from among her sisters as the Nereids performed a dance on the isle of Naxos."
     },
     {
       "name": "Galatea",
