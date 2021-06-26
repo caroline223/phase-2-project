@@ -42,7 +42,7 @@ class HeroContainer extends React.Component {
 
     filterSearchByInput = (input) => {
         console.log(input)
-        return this.state.gods.filter(hero => hero.name.toLowerCase().includes(input.toLowerCase())) 
+        return this.state.heroes.filter(hero => hero.name.toLowerCase().includes(input.toLowerCase())) 
 
     }
 
