@@ -1197,7 +1197,8 @@
       "mother": "N/A",
       "power": "Blessed by Hera and Golden Fleece",
       "home": "Iolcus",
-      "url": "http://www.greekmythology.com/images/mythology/jason_323.jpg"
+      "url": "http://www.greekmythology.com/images/mythology/jason_323.jpg",
+      "description": ""
     },
     {
       "name": "Meleager",
@@ -1206,7 +1207,8 @@
       "mother": "Althaea",
       "power": "Strength and Bravery",
       "home": "Calydon",
-      "url": "http://www.greekmythology.com/images/mythology/meleager_135.jpg"
+      "url": "http://www.greekmythology.com/images/mythology/meleager_135.jpg",
+      "description": "Meleager is a hero from Greek mythology who famously led an expedition to kill the Calydonian boar which was terrorizing the kingdom of Oeneus in Aetolia in central-western Greece."
     },
     {
       "name": "Odysseus",
@@ -1215,7 +1217,8 @@
       "mother": "Anticleia",
       "power": "Clever and Quick Mind",
       "home": "Ithaca",
-      "url": "http://www.greekmythology.com/images/mythology/odysseus_353.jpg"
+      "url": "http://www.greekmythology.com/images/mythology/odysseus_353.jpg",
+      "description": "In Greek mythology, Odysseus was the son of Laertes and Antikleia (or Anticlea) and the King of Ithaca, leader of the Kephallenians. Married to Penelope, he also had a son, Telemachos (or Telemachus). The hero was also fortunate enough to regularly receive the special aid and protection of the goddess Athena."
     },
     {
       "name": "Peleus",
@@ -1224,7 +1227,8 @@
       "mother": "Endeis",
       "power": "Magical Sword",
       "home": "Aegina",
-      "url": "http://www.greekmythology.com/images/mythology/peleus_364.jpg"
+      "url": "http://www.greekmythology.com/images/mythology/peleus_364.jpg",
+      "description": "Peleus, in Greek mythology, king of the Myrmidons of Thessaly; he was most famous as the husband of Thetis (a sea nymph) and the father of the hero Achilles, whom he outlived."
     },
     {
       "name": "Theseus",
@@ -1233,7 +1237,8 @@
       "mother": "Aethra",
       "power": "Strength, Courage, and Wisdom",
       "home": "Athens",
-      "url": "http://www.greekmythology.com/images/mythology/theseus_131.jpg"
+      "url": "http://www.greekmythology.com/images/mythology/theseus_131.jpg",
+      "description": "Theseus, great hero of Attic legend, son of Aegeus, king of Athens, and Aethra, daughter of Pittheus, king of Troezen (in Argolis), or of the sea god, Poseidon, and Aethra. Legend relates that Aegeus, being childless, was allowed by Pittheus to have a child (Theseus) by Aethra."
     }
   ],
   "locations": [
