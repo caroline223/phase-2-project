@@ -19,7 +19,7 @@ class GodInfo extends React.Component {
 
     render() {
 
-        const {name, romanname, power, symbol, father, mother, url } = this.props.gods
+        const {name, romanname, power, symbol, father, mother, url, description } = this.props.gods
         return(
             <Card>
                 <Image src={ url } wrapped ui={false} />
@@ -35,6 +35,8 @@ class GodInfo extends React.Component {
                         Parents: { father } , { mother }
                         <br />
                         Power: { power }
+                        <br />
+                        Description: { description }
                         <br />
                     </Card.Description>
                 </Card.Content>
