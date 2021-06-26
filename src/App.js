@@ -9,9 +9,9 @@ function App() {
     <div className="App">
      <Router>
        <Switch>
-         <Route path="/" exact component={GodContainer} />
+         <Route path="/gods" exact component={GodContainer} />
          <Route path="/form"  exact component={GodForm} />
-         <Route path="/heroeshome" exact component={HeroContainer} />
+         <Route path="/heroes" exact component={HeroContainer} />
        </Switch>
      </Router>
     </div>
