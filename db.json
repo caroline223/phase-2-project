@@ -993,13 +993,14 @@
   ],
   "heroes": [
     {
-      "name": "Atlanta",
+      "name": "Atalanta",
       "herotype": "Demigod",
       "father": "Iasus",
       "mother": "Clymene",
       "power": "Hunting",
       "home": "Arcadia",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/John_William_Godward_-_Atalanta.jpg",
+      "description": "Atalanta was a skilled human huntress in Greek mythology. A devoted follower of Artemis, goddess of the hunt, to whom she swore an oath of virginity . Left in the forest to die by her father, Atalanta was saved by a bear and raised by hunters."
     },
     {
       "name": "Bellerophon",
@@ -1008,7 +1009,8 @@
       "mother": "Eurynome",
       "power": "Spear",
       "home": "Lycia",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Aphrodisias_Museum_Bellerophon_with_Pegasus_4659.jpg",
+      "description": "Bellerophon is the Corinthian hero of Greek mythology who famously battled and killed the fantastical Chimera monster, a fearsome fire-breathing mix of lion, goat, and snake. Bellerophon was the son of Poseidon and he is also noted for taming the winged horse Pegasus, a gift from his father."
     },
     {
       "name": "Callisto",
@@ -1017,7 +1019,8 @@
       "mother": "Nonacris",
       "power": "Became Ursa Major (Bear)",
       "home": "Arcadia",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/VanlooDianeCallisto.jpg",
+      "description": "Callisto was a nymph, daughter of Lycaon, King of Arcadia. She was transformed into a bear and turned into a constellation. She was one of Artemis hunting attendants. She was a follower of goddess Artemis, and therefore, she must have taken a vow of chastity."
     },
     {
       "name": "Danae",
@@ -1026,7 +1029,8 @@
       "mother": "Eurydice",
       "power": "N/A",
       "home": "Island of Seriphus",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Regnault_-_Danae.jpg",
+      "description": "was a princess of Argos in the Greek Peloponnese, the only child of King Akrisios (Acrisius). When her father learned a prophecy that he was destined to be killed by a son of his daughter, he locked Danae away in a subterranean, bronze chamber."
     },
     {
       "name": "Endymion",
@@ -1035,7 +1039,8 @@
       "mother": "Calyce",
       "power": "Immortality and Youth",
       "home": "Caria",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Girodet_Sleep_of_Endymion.jpg",
+      "description": "Endymion was a handsome shepherd-prince loved by the moon-goddess Selene. When Zeus offered him his choice of destinies, Endymion chose immortality and youth in eternal slumber. He was laid out in a cave on Mount Latmus in Karia (Caria) where his lunar lover would visit him each night."
     },
     {
       "name": "Heracles",
@@ -1044,7 +1049,8 @@
       "mother": "Alcmene",
       "power": "Superhuman Strength",
       "home": "Thebes",
-      "url": "http://www.greekmythology.com/images/mythology/heracles_134.jpg"
+      "url": "http://www.greekmythology.com/images/mythology/heracles_134.jpg",
+      "description": "Heracles, Greek Herakles, Roman Hercules, one of the most famous Greco-Roman legendary heroes. Traditionally, Heracles was the son of Zeus and Alcmene (see Amphitryon), granddaughter of Perseus."
     },
     {
       "name": "Hyacinthus",
@@ -1053,7 +1059,8 @@
       "mother": "Diomede",
       "power": "Became a Flower",
       "home": "Laconia",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Hyacinthus_and_Zephyrus.png",
+      "description": "In Greek mythology, Hyacinth was a very beautiful Spartan prince and lover of the god Apollo. Hyacinth was also admired by the God of the West wind Zephyrus, the God of the North wind Boreas and a mortal man named Thamyris. But Hyacinth chose Apollo over the others."
     },
     {
       "name": "Io",
@@ -1062,7 +1069,8 @@
       "mother": "Melia",
       "power": "Became a Cow",
       "home": "Argolis",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Hermes_Io_Argos_Staatliche_Antikensammlungen_585.jpg",
+      "description": "Io, in Greek mythology, daughter of Inachus (the river god of Argos) and the Oceanid Melia. Under the name of Callithyia, Io was regarded as the first priestess of Hera, the wife of Zeus. Zeus fell in love with her and, to protect her from the wrath of Hera, changed her into a white heifer."
     },
     {
       "name": "Leda",
@@ -1071,7 +1079,8 @@
       "mother": "Eurythemis",
       "power": "Lays Eggs",
       "home": "Sparta",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Leda_y_el_Cisne_%28Georg_Pencz%29.jpg",
+      "description": "Leda is a figure from Greek mythology who was famously seduced by Zeus when he took the form of a swan. She was a queen of Sparta and mother of beautiful Helen who sparked the Trojan War, and the Dioscuri twins."
     },
     {
       "name": "Pandora",
@@ -1080,7 +1089,8 @@
       "mother": "N/A",
       "power": "Beauty and Cunning",
       "home": "Thessaly",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Dante_Gabriel_Rossetti_-_Pandora_-_1869.jpeg",
+      "description": "Pandora is a figure from Greek mythology who was not only the first woman, but —as an instrument of the wrath of Zeus— was held responsible for releasing the ills of humanity into the world. Pandora was also an unrelated earth goddess in the early Greek pantheon."
     },
     {
       "name": "Pelops",
@@ -1089,7 +1099,8 @@
       "mother": "Dione",
       "power": "Came back from the dead",
       "home": "Pisa in Elis",
-      "url": "http://www.greekmythology.com/images/mythology/pelops_366.jpg"
+      "url": "http://www.greekmythology.com/images/mythology/pelops_366.jpg",
+      "description": "Pelops, legendary founder of the Pelopid dynasty at Mycenae in the Greek Peloponnese, which was probably named for him. Pelops was a grandson of Zeus, the king of the gods. According to many accounts, his father, Tantalus, cooked and served Pelops to the gods at a banquet."
     },
     {
       "name": "Penthesilea",
@@ -1098,7 +1109,8 @@
       "mother": "Otrera",
       "power": "Supernatural strength and agility",
       "home": "Thermodon",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Achilles_and_Penthesilea.jpg",
+      "description": "Penthesilea, in Greek mythology, a queen of the Amazons, well respected for her bravery, her skill in weapons, and her wisdom. She led an army of Amazons to Troy to fight against the Greeks. She was said to have killed Achilles, but Zeus brought him back to life, and Achilles killed her."
     },
     {
       "name": "Perseus",
@@ -1107,7 +1119,8 @@
       "mother": "Danae",
       "power": "Supernatural strength and agility",
       "home": "Argolis",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Perseo_y_Andr%C3%B3meda%2C_copia_de_Tiziano.jpg",
+      "description": "Perseus, in Greek mythology, the slayer of the Gorgon Medusa and the rescuer of Andromeda from a sea monster. As an infant he was cast into the sea in a chest with his mother by Acrisius, to whom it had been prophesied that he would be killed by his grandson."
     },
     {
       "name": "Pygmalion",
@@ -1116,7 +1129,8 @@
       "mother": "NA",
       "power": "King and Sculptor",
       "home": "Cyprus",
-      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2010/07/Pygmalion-And-Galatea-300x227.jpg"
+      "url": "http://www.greekmyths-greekmythology.com/wp-content/uploads/2010/07/Pygmalion-And-Galatea-300x227.jpg",
+      "description": "The story of Pygmalion and Galatea is quite known and popular till nowadays. Pygmalion, a famous sculptor, falls in love with his own creation and wishes to give this creation life. ... The modern concept of Pygmalion is thought as a man who 'shapes' an uncultivated woman into an educated creature."
     },
     {
       "name": "Pyrrha",
@@ -1125,7 +1139,8 @@
       "mother": "Pandora",
       "power": "Queen",
       "home": "Thessaly",
-      "url": "http://www.greekmythology.com/images/mythology/pyrrha_384.jpg"
+      "url": "http://www.greekmythology.com/images/mythology/pyrrha_384.jpg",
+      "description": "In Greek mythology, Pyrrha was the daughter of Epimetheus and Pandora and wife of Deucalion of whom she had three sons, Hellen, Amphictyon, Orestheus; and three daughters Protogeneia, Pandora II and Thyia."
     },
     {
       "name": "Cycnus",
@@ -1134,7 +1149,8 @@
       "mother": "Calyce",
       "power": "N/A",
       "home": "Troad",
-      "url": "http://www.mlahanas.de/Greeks/Mythology/Images/HeraclesKyknos.jpg"
+      "url": "http://www.mlahanas.de/Greeks/Mythology/Images/HeraclesKyknos.jpg",
+      "description": "In Greek mythology, Cycnus or Cygnus, was a bloodthirsty and cruel man who dwelt either in Pagasae, Thessaly or by the river Echedorus in Macedonia. "
     },
     {
       "name": "Tyro",
@@ -1143,7 +1159,8 @@
       "mother": "Alcidice",
       "power": "Beauty",
       "home": "Iolcus",
-      "url": "http://img13.deviantart.net/388b/i/2004/306/f/f/tyro_and_poseidon__work_in_pro_by_kallithrix.jpg"
+      "url": "http://img13.deviantart.net/388b/i/2004/306/f/f/tyro_and_poseidon__work_in_pro_by_kallithrix.jpg",
+      "description": "Tyro was the daughter of Salmoneus in Greek mythology, wife of Cretheus. She was the mother of the twins Pelias and Neleus, by Poseidon, and of Aeson, Pheres and Amythaon, by Cretheus. Tyro married Cretheus, but she had fallen in love with Enipeus, a river god, who ignored her."
     },
     {
       "name": "Achilles",
@@ -1152,7 +1169,8 @@
       "mother": "Thetis",
       "power": "Strength and Agility",
       "home": "Thessaly",
-      "url": "http://www.greekmythology.com/images/mythology/achilles_218.jpg"
+      "url": "http://www.greekmythology.com/images/mythology/achilles_218.jpg",
+      "description": "In Greek mythology, Achilles was the strongest warrior and hero in the Greek army during the Trojan War. He was the son of Peleus, king of the Myrmidons, and Thetis, a sea nymph."
     },
     {
       "name": "Actaeon",
@@ -1161,7 +1179,8 @@
       "mother": "Autonoe",
       "power": "Hunter",
       "home": "Boeotia",
-      "url": "http://www.greekmythology.com/images/mythology/actaeon_220.jpg"
+      "url": "http://www.greekmythology.com/images/mythology/actaeon_220.jpg",
+      "description": "Actaeon was a famous hero in Greek mythology. He was the son of Aristaeus, a herdsman, and Autonoe, and resided in the region of Boeotia. He was the pupil of the centaur Chiron. He somehow caused the wrath of goddess Artemis, eventually leading to his death."
     },
     {
       "name": "Aeneas",
@@ -1170,7 +1189,8 @@
       "mother": "Aphrodite",
       "power": "Strength and Beauty",
       "home": "Troy",
-      "url": "http://www.greekmythology.com/images/mythology/aeneas_536.jpg"
+      "url": "http://www.greekmythology.com/images/mythology/aeneas_536.jpg",
+      "description": "Aeneas, mythical hero of Troy and Rome, son of the goddess Aphrodite and Anchises. Aeneas was a member of the royal line at Troy and cousin of Hector. He played a prominent part in defending his city against the Greeks during the Trojan War, being second only to Hector in ability."
     },
     {
       "name": "Castor",
@@ -1179,7 +1199,8 @@
       "mother": "Leda",
       "power": "Horseman and Archery",
       "home": "Sparta",
-      "url": "http://www.greekmythology.com/images/mythology/dioscuri_281.jpg"
+      "url": "http://www.greekmythology.com/images/mythology/dioscuri_281.jpg",
+      "description": "Dioscuri, also called (in French) Castor and Polydeuces and (in Latin) Castor and Pollux, (Dioscuri from Greek Dioskouroi, “Sons of Zeus”), in Greek and Roman mythology, twin deities who succoured shipwrecked sailors and received sacrifices for favourable winds."
     },
     {
       "name": "Pollux",
@@ -1188,7 +1209,8 @@
       "mother": "Leda",
       "power": "Horseman and Archery",
       "home": "Sparta",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Pollux_statue_detail_%284292776731%29.jpg",
+      "description": "Castor and Pollux (or in Greek, Polydeukes) are twin half-brothers in Greek and Roman mythology, known together as the Dioscuri. ... Pollux asked Zeus to let him share his own immortality with his twin to keep them together, and they were transformed into the constellation Gemini."
     },
     {
       "name": "Jason",
@@ -1198,7 +1220,7 @@
       "power": "Blessed by Hera and Golden Fleece",
       "home": "Iolcus",
       "url": "http://www.greekmythology.com/images/mythology/jason_323.jpg",
-      "description": ""
+      "description": "Jason was an ancient Greek mythological hero and leader of the Argonauts, whose quest for the Golden Fleece featured in Greek literature. He was the son of Aeson, the rightful king of Iolcos. He was married to the sorceress Medea."
     },
     {
       "name": "Meleager",
