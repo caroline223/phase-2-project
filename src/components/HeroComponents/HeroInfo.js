@@ -3,20 +3,6 @@ import { Card, Image } from 'semantic-ui-react';
 
 class HeroInfo extends React.Component {
 
-
-    state = {
-       side: 'front'
-    }
-
-   /* handleClick = () => {
-        //toggle between the front and back of each card
-        this.state.side === 'front' ? this.setState({side: 'back'}) : this.setState({side: 'front'})
-    }
-    */
-
-    
-
-
     render() {
 
         const {name, herotype, power, father, mother, url, home, description } = this.props.heroes
