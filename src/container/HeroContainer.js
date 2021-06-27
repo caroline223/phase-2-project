@@ -1,6 +1,7 @@
 import React from 'react';
 import HeroCollection from '../components/HeroComponents/HeroCollection';
 import HeroSearch from '../components/HeroComponents/HeroSearch'
+import HeroForm from '../components/HeroComponents/HeroForm'
 import { Container } from 'semantic-ui-react';
 
 class HeroContainer extends React.Component {
@@ -68,7 +69,7 @@ render(){
     return (
         <>
             <h1>Mighty Heroes!</h1>
-            <h2><a href="http://localhost:3000/form">Make a Hero!</a></h2>
+            <h2><a href="http://localhost:3000/heroform">Build a Hero!</a></h2>
             <Container>
                 <HeroSearch handleSearchInput={this.handleSearchInput} />
                 <br />

@@ -1,5 +1,8 @@
 import React from 'react'
-import { Image, Card } from 'semantic-ui-react'
+import HomeCollection from '../components/HomeComponents/HomeCollection';
+import HeroContainer from '../container/HeroContainer'
+import { Container } from 'semantic-ui-react'
+import { Link } from 'react-router-dom'
 
 class Home extends React.Component {
 
@@ -17,6 +20,23 @@ class Home extends React.Component {
         this.setState({
             home: [...homeCollection]
         })
+    }
+
+    handleClick = () => {
+        if(this.state.home.type === "heroes"){
+            <Link></Link>
+        }
+    }
+
+    render() {
+        return (
+            <>
+            <h1>Ancient Greek Gods</h1>
+                <Container>
+                    <HomeCollection home={this.state.home} onClick={this.handleClick} />
+                </Container>
+            </>
+        )
     }
 
     
