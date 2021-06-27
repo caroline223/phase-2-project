@@ -1,6 +1,7 @@
 import React from 'react';
 import GodCollection from '../components/GodComponents/GodCollection';
 import GodSearch from '../components/GodComponents/GodSearch'
+import NavBar from './NavBar';
 import { Container } from 'semantic-ui-react';
 
 class GodContainer extends React.Component {
@@ -75,6 +76,7 @@ class GodContainer extends React.Component {
 render(){
     return (
         <>
+            <NavBar />
             <h1>Welcome to the Gods!</h1>
             <h2><a href="http://localhost:3000/form">Click here to add a God!</a></h2>
             <Container>

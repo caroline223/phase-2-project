@@ -1,7 +1,7 @@
 import React from 'react';
 import HeroCollection from '../components/HeroComponents/HeroCollection';
 import HeroSearch from '../components/HeroComponents/HeroSearch'
-import HeroForm from '../components/HeroComponents/HeroForm'
+import NavBar from '../container/NavBar';
 import { Container } from 'semantic-ui-react';
 
 class HeroContainer extends React.Component {
@@ -68,6 +68,7 @@ class HeroContainer extends React.Component {
 render(){
     return (
         <>
+            <NavBar />
             <h1>Mighty Heroes!</h1>
             <h2><a href="http://localhost:3000/heroform">Build a Hero!</a></h2>
             <Container>
