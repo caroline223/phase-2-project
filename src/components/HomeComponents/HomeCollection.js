@@ -5,10 +5,16 @@ import HomeInfo from '../HomeComponents/HomeInfo'
 class HomeCollection extends React.Component {
 
     render() {
+        return (
 
-        <Card.Group itemsPerRow={2}>
-             {this.props.home.map(homeObj => <HomeInfo key={homeObj.id} home={homeObj} />)}
-        </Card.Group>
+
+            <Card.Group itemsPerRow={2}>
+                {this.props.home.map(homeObj => <HomeInfo key={homeObj.id} home={homeObj} />)}
+            </Card.Group>
+
+            
+        )
+        
     }
 
 }
