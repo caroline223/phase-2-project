@@ -2,6 +2,7 @@ import React from 'react';
 import GodCollection from '../components/GodComponents/GodCollection';
 import GodSearch from '../components/GodComponents/GodSearch'
 import NavBar from './NavBar';
+import { Link } from 'react-router-dom'
 import { Container } from 'semantic-ui-react';
 
 class GodContainer extends React.Component {
@@ -35,7 +36,32 @@ class GodContainer extends React.Component {
         })
     }
 
-    
+    handleFormSubmit = (godCollection) => {
+        //creating a fetch request to add a new god to the collection of gods
+        fetch('http://localhost:5000/gods', this.postObjectFromGodCollection(godCollection))
+        .then(response => response.json)
+        .then(this.addNewGodToCollection)
+    }
+
+    postObjectFromGodCollection = (collection) => {
+        return {
+            method: 'POST',
+            headers: {
+                'Content-type' : 'application/json',
+                'Accept' : 'application/json'
+            },
+            body: JSON.stringify({
+                name: collection.name,
+                romanname: collection.romanname,
+                symbol: collection.symbol,
+                father: collection.father,
+                mother: collection.mother,
+                power: collection.power, 
+                url: collection.url
+            })
+        }
+    }
+
 
     addNewGodToCollection = (godObj) => {
         //receiving a god object as json and adding this god to the collection
@@ -78,7 +104,7 @@ render(){
         <>
             <NavBar />
             <h1>Welcome to the Gods!</h1>
-            <h2><a href="http://localhost:3000/form">Click here to add a God!</a></h2>
+            <Link to={"/godform"}>Build A God!</Link>
             <Container>
                 <GodSearch handleSearchInput={this.handleSearchInput} />
                 <br />
