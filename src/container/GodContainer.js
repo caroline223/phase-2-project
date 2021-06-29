@@ -19,14 +19,6 @@ class GodContainer extends React.Component {
         .then(this.setInitialGods)
     }
 
-  
-
-   /* godsToRender = () => {
-        return this.state.gods.map((god) => {
-            return <p key={god.id}>{god.name}: {god.romanname}</p>
-        })
-    }
-    */
 
     setInitialGods = (godCollection) => {
         //upon initial render, shows the entire collection of greek/roman gods
@@ -36,31 +28,7 @@ class GodContainer extends React.Component {
         })
     }
 
-    handleFormSubmit = (godCollection) => {
-        //creating a fetch request to add a new god to the collection of gods
-        fetch('http://localhost:5000/gods', this.postObjectFromGodCollection(godCollection))
-        .then(response => response.json)
-        .then(this.addNewGodToCollection)
-    }
-
-    postObjectFromGodCollection = (collection) => {
-        return {
-            method: 'POST',
-            headers: {
-                'Content-type' : 'application/json',
-                'Accept' : 'application/json'
-            },
-            body: JSON.stringify({
-                name: collection.name,
-                romanname: collection.romanname,
-                symbol: collection.symbol,
-                father: collection.father,
-                mother: collection.mother,
-                power: collection.power, 
-                url: collection.url
-            })
-        }
-    }
+   
 
 
     addNewGodToCollection = (godObj) => {
