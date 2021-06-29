@@ -49,7 +49,7 @@ class GodForm extends React.Component {
 
     handleFormSubmit = (event) => {
         event.preventDefault();
-        this.props.handleFormSubmit( this.state )
+        //this.props.handleFormSubmit( this.state )
         event.target.reset()
     }
 
