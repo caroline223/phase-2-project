@@ -1,6 +1,7 @@
 {
   "gods": [
     {
+      "id": "1",
       "name": "Aphrodite",
       "romanname": "Venus",
       "power": "Love, beauty, procreation",
@@ -437,7 +438,7 @@
       "symbol": "None",
       "father": "None",
       "mother": "Chaos",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg", 
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg",
       "description": "Nyx is the emale personification of night but also a great cosmogonical figure, feared even by Zeus, the king of the gods, as related in Homer's Iliad, Book XIV."
     },
     {
@@ -457,7 +458,7 @@
       "symbol": "None",
       "father": "None",
       "mother": "Gaea",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg", 
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sanctuary_of_the_Great_Gods_and_the_sea.jpg",
       "description": "Pontus was the primordial god (protogenos) of the sea. He was the sea itself, not merely its resident deity, who was born from earth at the dawn of creation. Pontos and Gaia (Gaea, the Earth) were parents of the ancient deities known as the Old Men of the Sea."
     },
     {
@@ -989,10 +990,11 @@
       "mother": "Gaea",
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Phorkys_Mosaic_Bardo.jpg",
       "description": "Thaumas was an old sea god who personified the wonders of the sea. His name was derived from the Greek word thaumatos meaning 'miracle' or 'wonder.' His daughters were the Whirlwinds (Harpyiai) and Rainbow (Iris), and his wife amber-tinged clouds (Elektra)."
-    }
+    } 
   ],
   "heroes": [
     {
+      "id": "1",
       "name": "Atalanta",
       "herotype": "Demigod",
       "father": "Iasus",
@@ -1265,6 +1267,7 @@
   ],
   "locations": [
     {
+      "id": "1",
       "name": "Arcadia",
       "altname": "Arcadia",
       "myth": "None",
@@ -1519,5 +1522,4 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/View_of_the_Acropolis_from_the_summit_of_the_Areopagus_on_February_25%2C_2021.jpg"
     }
   ]
-
 }
