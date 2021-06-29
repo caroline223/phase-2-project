@@ -1503,14 +1503,6 @@
       "locationtype": "Afterlife",
       "gods": "Hades, Persephone",
       "url": "http://www.greekmythology.com/images/mythology/the_underworld_128.jpg"
-    },
-    {
-      "name": "Troy",
-      "altname": "Ilion, Troia, Ilium",
-      "myth": "Trojan War",
-      "locationtype": "City",
-      "gods": "Achilles, Odysseus",
-      "url": "http://www.greekmythology.com/images/mythology/troy_502.jpg"
     }
   ],
   "home": [
@@ -1521,6 +1513,10 @@
     {
       "type": "Gods",
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Peter_van_Halen_-_Feast_of_the_Gods.jpg"
+    },
+    {
+      "type": "Locations",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/View_of_the_Acropolis_from_the_summit_of_the_Areopagus_on_February_25%2C_2021.jpg"
     }
   ]
 
