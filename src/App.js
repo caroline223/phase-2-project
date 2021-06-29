@@ -5,6 +5,7 @@ import GodForm from './components/GodComponents/GodForm'
 import HeroForm from './components/HeroComponents/HeroForm'
 import HeroContainer from './container/HeroContainer';
 import HomeContainer from './container/HomeContainer'
+import LocationContainer from './container/LocationContainer';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
          <Route path="/godform"  exact component={GodForm} />
          <Route path="/heroform"  exact component={HeroForm} />
          <Route path="/heroes" exact component={HeroContainer} />
+         <Route path="/locations" exact component={LocationContainer} />
        </Switch>
      </Router>
     </div>
