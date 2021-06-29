@@ -103,13 +103,12 @@ render(){
     return (
         <>
             <NavBar />
-            <h1>Welcome to the Gods!</h1>
+            <h1>Land Of the Gods!</h1>
             <Link to={"/godform"}>Build A God!</Link>
             <Container>
                 <GodSearch handleSearchInput={this.handleSearchInput} />
                 <br />
                 <GodCollection gods={this.state.renderedGods} />
-                {/* {this.godsToRender()} */}  
             </Container>
             
         </>

@@ -20,6 +20,7 @@ function NavBar(props) {
             <Link to="/">Home</Link>
             <Link to="/gods">Gods</Link>
             <Link to="/heroes">Heroes</Link>
+            <Link to="/locations">Locations</Link>
         </nav>
     )
 }
