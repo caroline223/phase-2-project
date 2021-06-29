@@ -1,25 +1,35 @@
 import React from 'react';
 import { Form } from 'semantic-ui-react';
 
+const defaultState = {
+    url: '',
+    name: '',
+    herotype: '',
+    home: '',
+    father: '',
+    mother: '',
+    power: '',
+    description: ''
+}
 
 class HeroForm extends React.Component {
 
-    state = {
-        url: '',
-        name: '',
-        herotype: '',
-        home: '',
-        father: '',
-        mother: '',
-        power: '',
-        description: ''
+    state = {...defaultState}
+
+    handleOnChange = (event) => {
+        console.log(this.state)
+        this.setState({
+            [event.target.name]: event.target.value
+        })
     }
 
-    handleFormSubmit = (heroCollection) => {
+    handleFormSubmit = (event) => {
         //creating a fetch request to add a new god to the collection of gods
-        fetch('http://localhost:5000/heroes', this.postObjectFromHeroCollection(heroCollection))
+        event.preventDefault()
+        fetch('http://localhost:5000/heroes', this.postObjectFromHeroCollection())
         .then(response => response.json)
-        .then(this.addNewHeroToCollection)
+        .then(data => this.props.history.push('/heroes'))
+        this.setState(defaultState)
     }
 
     postObjectFromHeroCollection = (collection) => {
@@ -29,29 +39,8 @@ class HeroForm extends React.Component {
                 'Content-type' : 'application/json',
                 'Accept' : 'application/json'
             },
-            body: JSON.stringify({
-                name: collection.name,
-                herotype: collection.herotype,
-                home: collection.home,
-                father: collection.father,
-                mother: collection.mother,
-                power: collection.power, 
-                url: collection.url
-            })
+            body: JSON.stringify(this.state)
         }
-    }
-
-    handleOnChange = (event) => {
-        console.log(this.state)
-        this.setState({
-            [event.target.name]: event.target.value
-        })
-    }
-
-
-    handleFormSubmit = (event) => {
-        event.preventDefault();
-        event.target.reset()
     }
 
 render() {
