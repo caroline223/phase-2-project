@@ -8,7 +8,7 @@ class HeroCollection extends React.Component {
 
         return (
             <Card.Group itemsPerRow={3}>
-                {this.props.heroes.map(heroObj => <HeroInfo key={heroObj.id} heroes={ heroObj }/>)}
+                {this.props.heroes.map((heroObj, index) => <HeroInfo key={index} heroes={ heroObj }/>)}
             </Card.Group>
         )
     }
