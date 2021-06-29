@@ -9,7 +9,7 @@ class HomeCollection extends React.Component {
 
 
             <Card.Group itemsPerRow={2}>
-                {this.props.home.map(homeObj => <HomeInfo key={homeObj.id} home={homeObj} />)}
+                {this.props.home.map((homeObj, index) => <HomeInfo key={index} home={homeObj} />)}
             </Card.Group>
 
             
