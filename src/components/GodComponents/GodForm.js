@@ -1,32 +1,47 @@
 import React from 'react';
 import { Form } from 'semantic-ui-react';
 
+const defaultState = {
+    url: '',
+    name: '',
+    romanname: '',
+    symbol: '',
+    father: '',
+    mother: '',
+    power: '',
+    description: ''
+}
 
 class GodForm extends React.Component {
 
-    state = {
-            url: '',
-            name: '',
-            romanname: '',
-            symbol: '',
-            father: '',
-            mother: '',
-            power: '',
-            description: ''
-    }
+    state = {...defaultState}
+
 
     handleOnChange = (event) => {
         console.log(this.state)
         this.setState({[event.target.name]: event.target.value})
     }
 
-
-    handleFormSubmit = event => {
+    handleFormSubmit = (event) => {
         event.preventDefault()
-        this.setState( this.state )
-        event.target.reset()
+        //creating a fetch request to add a new god to the collection of gods
+        fetch('http://localhost:5000/gods', this.postObjectFromGodCollection())
+        .then(response => response.json())
+        .then(data => this.props.history.push('/gods'))
+        this.setState(defaultState)
     }
-    
+
+    postObjectFromGodCollection = () => {
+        return {
+            method: 'POST',
+            headers: {
+                'Content-type' : 'application/json',
+                'Accept' : 'application/json'
+            },
+            body: JSON.stringify(this.state)
+        }
+    }
+ 
 
     
 
