@@ -1424,7 +1424,7 @@
       "altname": "Korinthos",
       "myth": "The Myth of Sisyphus, The Myth of Pegasus and Bellerophontes",
       "locationtype": "City",
-      "gods": "Sisyphus,Bellerophontes",
+      "gods": "Sisyphus, Bellerophontes",
       "url": "http://www.greekmythology.com/images/mythology/corinth_504.jpg"
     },
     {
@@ -1432,7 +1432,7 @@
       "altname": "Kaptara, Girit, Creta",
       "myth": "The Myth of Europe, The Myth of Theseus and the Minotaur",
       "locationtype": "Island",
-      "gods": "Zeus,Europe,Minos,Pasiphae,Minotaur,Aegeus,Adriadne,Theseus,Androgeus",
+      "gods": "Zeus, Europe, Minos, Pasiphae, Minotaur, Aegeus, Adriadne, Theseus, Androgeus",
       "url": "http://www.greekmythology.com/images/mythology/crete_509.jpg"
     },
     {
@@ -1448,7 +1448,7 @@
       "altname": "Iolkos,Iolcus",
       "myth": "Jason and the Argonauts",
       "locationtype": "City",
-      "gods": "Jason,Pelias,Athena,Hera,Argonauts",
+      "gods": "Jason, Pelias, Athena, Hera, Argonauts",
       "url": "http://www.greekmythology.com/images/mythology/iolcus_500.jpg"
     },
     {
@@ -1472,7 +1472,7 @@
       "altname": "Olympus",
       "myth": "The Myth of Tantalus, The Titans and Titanomachy",
       "locationtype": "Mountain",
-      "gods": "Tantalus,Pelops,Zeus,Demeter, All the Gods",
+      "gods": "All the Gods",
       "url": "http://www.greekmythology.com/images/mythology/mount_olympus_127.jpg"
     },
     {
