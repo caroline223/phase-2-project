@@ -3,6 +3,7 @@ import HeroCollection from '../components/HeroComponents/HeroCollection';
 import HeroSearch from '../components/HeroComponents/HeroSearch'
 import NavBar from '../container/NavBar';
 import { Container } from 'semantic-ui-react';
+import { Link } from 'react-router-dom';
 
 class HeroContainer extends React.Component {
 
@@ -70,7 +71,7 @@ render(){
         <>
             <NavBar />
             <h1>Mighty Heroes!</h1>
-            <h2><a href="http://localhost:3000/heroform">Build a Hero!</a></h2>
+           <Link to={'/heroform'}>Build a Hero!</Link>
             <Container>
                 <HeroSearch handleSearchInput={this.handleSearchInput} />
                 <br />

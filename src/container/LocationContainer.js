@@ -31,7 +31,7 @@ class LocationContainer extends React.Component {
 
     filterSearchByInput = (input) => {
         console.log(input)
-        return this.state.locations.filter(location => location.name.toLowerCase().includes(input.toLowerCase())) 
+        return this.state.locations.filter(location => location.gods.toLowerCase().includes(input.toLowerCase())) 
 
     }
 
