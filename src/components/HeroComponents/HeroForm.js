@@ -55,6 +55,7 @@ render() {
                         name="url" 
                         value={this.state.url} 
                         onChange={this.handleOnChange} 
+                        required
                         />
                     <Form.Input fluid 
                         label="Name" 
@@ -62,12 +63,14 @@ render() {
                         name="name"  
                         value={this.state.name} 
                         onChange={this.handleOnChange} 
+                        required
                         />
                     <Form.Input fluid 
                         label="Hero Type" 
                         placeholder="Hero Type" 
                         name="herotype" value={this.state.herotype} 
                         onChange={this.handleOnChange} 
+                        required
                         />
                     <Form.Input fluid 
                         label="Home" 
@@ -75,6 +78,7 @@ render() {
                         name="home" 
                         value={this.state.home} 
                         onChange={this.handleOnChange} 
+                        required
                         />
                     <Form.Input fluid 
                         label="Father" 
@@ -82,6 +86,7 @@ render() {
                         name="father" 
                         value={this.state.father} 
                         onChange={this.handleOnChange} 
+                        required
                         />
                     <Form.Input fluid 
                         label="Mother" 
@@ -89,6 +94,7 @@ render() {
                         name="mother" 
                         value={this.state.mother} 
                         onChange={this.handleOnChange} 
+                        required
                         />
                     <Form.Input fluid 
                         label="Power" 
@@ -96,6 +102,7 @@ render() {
                         name="power" 
                         value={this.state.power} 
                         onChange={this.handleOnChange} 
+                        required
                         />
                     <Form.Input fluid 
                         label="Description" 
@@ -103,6 +110,7 @@ render() {
                         name="description" 
                         value={this.state.description} 
                         onChange={this.handleOnChange} 
+                        required
                         />
                 </Form.Group>
                 <Form.Button>Submit</Form.Button>

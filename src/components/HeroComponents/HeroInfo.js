@@ -7,7 +7,7 @@ class HeroInfo extends React.Component {
 
         const {name, herotype, power, father, mother, url, home, description } = this.props.heroes
         return(
-            <Card>
+            <Card >
                 <Image src={ url } wrapped ui={false} />
                 <Card.Content>
                     <Card.Header>
