@@ -57,9 +57,12 @@ render(){
     return (
         <>
             <NavBar />
+            <br />
             <h1>Home Sweet Home!</h1>
+            <br />
             <Container>
                 <LocationSearch handleSearchInput={this.handleSearchInput} />
+                <br />
                 <br />
                 <LocationCollection locations={this.state.renderedLocations} />
             </Container>

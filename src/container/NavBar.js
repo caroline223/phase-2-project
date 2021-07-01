@@ -8,19 +8,18 @@ function NavBar(props) {
             display: "flex",
             justifyContent: "space-between",
             alignItems: "flex-end",
-            backgroundColor: "black",
             height: "30px",
             padding: "35px",
-            marginBottom: "20px"
+            marginBottom: "20px",
         }
     };
 
     return (
-        <nav style={layout.nav}>
-            <Link to="/">Home</Link>
-            <Link to="/gods">Gods</Link>
-            <Link to="/heroes">Heroes</Link>
-            <Link to="/locations">Locations</Link>
+        <nav style={layout.nav} className="navBackground">
+            <Link to="/" className="navTitle">Home</Link>
+            <Link to="/gods" className="navTitle">Gods</Link>
+            <Link to="/heroes" className="navTitle">Heroes</Link>
+            <Link to="/locations" className="navTitle">Locations</Link>
         </nav>
     )
 }

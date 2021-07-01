@@ -1,0 +1,31 @@
+.cardImage{
+    height: 250px;
+    width: 300px;
+}
+
+h1{
+    font-family:cursive;
+    text-align: center;
+}
+
+.cardDescription{
+    font-family:cursive;
+      
+}
+
+.navBackground{
+    background: #cad3b3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ffffff, #abbaab);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ffffff, #abbaab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.navTitle{
+    color: #304352;
+    font-family:cursive;
+}
+
+.searchBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -10,7 +10,7 @@ class GodInfo extends React.Component {
         const {name, romanname, power, symbol, father, mother, url, description } = this.props.gods
         return(
             <Card>
-                <Image src={ url } wrapped ui={false} />
+                <Image src={ url } className="cardImage" />
                 <Card.Content>
                     <Card.Header>
                        { name } 

@@ -5,6 +5,7 @@ import NavBar from '../container/NavBar';
 import { Container } from 'semantic-ui-react';
 import { Link } from 'react-router-dom';
 
+
 class HeroContainer extends React.Component {
 
     state = {

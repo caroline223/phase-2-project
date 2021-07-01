@@ -14,7 +14,7 @@ class HomeInfo extends React.Component {
             
             <Link to={`/${this.props.home.type}`} >
              <Card>
-                    <Image src={ url } wrapped ui={false} />
+                    <Image src={ url } className="cardImage"  />
                         <Card.Content>
                             <Card.Header>
                                 { type }                    
