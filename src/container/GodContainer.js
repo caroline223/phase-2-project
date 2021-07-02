@@ -69,16 +69,18 @@ class GodContainer extends React.Component {
 
 render(){
     return (
-        <>
-            <NavBar />
-            <h1>Land Of the Gods!</h1>
-            <Link to={"/godform"}>Build A God!</Link>
-            <Container>
-                <GodSearch handleSearchInput={this.handleSearchInput} />
-                <br />
-                <GodCollection gods={this.state.renderedGods} />
-            </Container>
-            
+    <>
+        <NavBar />
+            <h1>Holy Gods</h1>
+            <div className="link">
+        <Link to={"/godform"}>Build A God!</Link>
+            </div>
+            <br />
+        <Container>
+            <GodSearch handleSearchInput={this.handleSearchInput} />
+            <br />
+            <GodCollection gods={this.state.renderedGods} />
+        </Container>   
         </>
     )
 

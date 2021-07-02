@@ -70,14 +70,17 @@ class HeroContainer extends React.Component {
 render(){
     return (
         <>
-            <NavBar />
+        <NavBar />
             <h1>Mighty Heroes!</h1>
-           <Link to={'/heroform'}>Build a Hero!</Link>
-            <Container>
-                <HeroSearch handleSearchInput={this.handleSearchInput} />
-                <br />
-                <HeroCollection heroes={this.state.renderedHeroes} />
-            </Container>
+            <div className="link" >
+                <Link to={'/heroform'}>Build a Hero!</Link>
+            </div>
+            <br />
+        <Container>
+            <HeroSearch handleSearchInput={this.handleSearchInput} />
+            <br />
+            <HeroCollection heroes={this.state.renderedHeroes} />
+        </Container>
             
         </>
     )
