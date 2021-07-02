@@ -5,11 +5,19 @@ class HeroInfo extends React.Component {
 
     render() {
 
+        const layout = {
+            card : {
+                backgroundColor: "#bec7a6", 
+                opacity: "0.8",
+                borderRadius: "40px"
+            }
+        }
+
         const {name, herotype, power, father, mother, url, home, description } = this.props.heroes
         return(
-            <Card   >
+            <Card style={layout.card}>
                 <Image src={ url } className="cardImage"  />
-                <Card.Content>
+                <Card.Content className="cardDescription">
                     <Card.Header>
                        { name } 
                     </Card.Header>
