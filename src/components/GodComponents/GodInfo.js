@@ -3,15 +3,21 @@ import { Card, Image } from 'semantic-ui-react';
 
 class GodInfo extends React.Component {
 
-
-
     render() {
+
+        const layout = {
+            card : {
+                backgroundColor: "#bec7a6", 
+                opacity: "0.8",
+                borderRadius: "40px"
+            }
+        }
 
         const {name, romanname, power, symbol, father, mother, url, description } = this.props.gods
         return(
-            <Card>
+            <Card style={layout.card}>
                 <Image src={ url } className="cardImage" />
-                <Card.Content>
+                <Card.Content className="cardDescription" >
                     <Card.Header>
                        { name } 
                     </Card.Header>
