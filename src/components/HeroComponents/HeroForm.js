@@ -46,76 +46,109 @@ class HeroForm extends React.Component {
 render() {
     return (
         <div>
-            <h3>Build A Hero</h3>
+            <h1>Build A Hero</h1>
             <Form onSubmit={this.handleFormSubmit}>
-                <Form.Group widths="equal">
-                    <Form.Input fluid 
-                        label="Image URL" 
-                        placeholder="url" 
-                        name="url" 
-                        value={this.state.url} 
-                        onChange={this.handleOnChange} 
+                <div className="formField"> 
+                <Form.Field>
+                    <label style={{color: 'white'}}>Image URL</label>
+                    <input
+                        placeholder="url"
+                        name="url"
+                        value={this.state.url}
+                        onChange={this.handleOnChange}
+                        style={{width: "100%"}}
                         required
-                        />
-                    <Form.Input fluid 
-                        label="Name" 
-                        placeholder="Name" 
-                        name="name"  
-                        value={this.state.name} 
-                        onChange={this.handleOnChange} 
+                    />
+                </Form.Field>
+                <Form.Field>
+                    <label style={{color: 'white'}}>Name</label>
+                    <input 
+                        placeholder="Name"
+                        name="name"
+                        value={this.state.name}
+                        onChange={this.handleOnChange}
+                        style={{width: "100%"}}
                         required
-                        />
-                    <Form.Input fluid 
-                        label="Hero Type" 
-                        placeholder="Hero Type" 
-                        name="herotype" value={this.state.herotype} 
-                        onChange={this.handleOnChange} 
+                    />
+                </Form.Field>
+                <Form.Field>
+                    <label style={{color: 'white'}}>Hero Type</label>
+                    <input 
+                        placeholder="Hero Type"
+                        name="herotype"
+                        value={this.state.herotype}
+                        onChange={this.handleOnChange}
+                        style={{width: "100%"}}
                         required
-                        />
-                    <Form.Input fluid 
-                        label="Home" 
-                        placeholder="Home" 
-                        name="home" 
-                        value={this.state.home} 
-                        onChange={this.handleOnChange} 
+                    />
+                </Form.Field>
+                <Form.Field>
+                    <label style={{color: 'white'}}>Home</label>
+                    <input 
+                        placeholder="Home"
+                        name="home"
+                        value={this.state.home}
+                        onChange={this.handleOnChange}
+                        style={{width: "100%"}}
                         required
-                        />
-                    <Form.Input fluid 
-                        label="Father" 
-                        placeholder="Father" 
-                        name="father" 
-                        value={this.state.father} 
-                        onChange={this.handleOnChange} 
+                    />
+                </Form.Field>
+                    
+                <Form.Field>
+                    <label style={{color: 'white'}}>Father</label>
+                    <input 
+                        placeholder="Father"
+                        name="father"
+                        value={this.state.father}
+                        onChange={this.handleOnChange}
+                        style={{width: "100%"}}
                         required
-                        />
-                    <Form.Input fluid 
-                        label="Mother" 
-                        placeholder="Mother" 
-                        name="mother" 
-                        value={this.state.mother} 
-                        onChange={this.handleOnChange} 
+                    />
+                </Form.Field>
+                    
+                <Form.Field>
+                    <label style={{color: 'white'}}>Mother</label>
+                    <input 
+                        placeholder="Mother"
+                        name="mother"
+                        value={this.state.mother}
+                        onChange={this.handleOnChange}
+                        style={{width: "100%"}}
                         required
-                        />
-                    <Form.Input fluid 
-                        label="Power" 
-                        placeholder="Power" 
-                        name="power" 
-                        value={this.state.power} 
-                        onChange={this.handleOnChange} 
+                    />
+                </Form.Field>
+
+                <Form.Field>
+                    <label style={{color: 'white'}}>Power</label>
+                    <input 
+                        placeholder="Power"
+                        name="power"
+                        value={this.state.power}
+                        onChange={this.handleOnChange}
+                        style={{width: "100%"}}
                         required
-                        />
-                    <Form.Input fluid 
-                        label="Description" 
-                        placeholder="Description" 
-                        name="description" 
-                        value={this.state.description} 
-                        onChange={this.handleOnChange} 
+                    />
+                </Form.Field>
+
+                <Form.Field>
+                    <label style={{color: 'white'}}>Description</label>
+                    <textarea
+                        placeholder="Description"
+                        name="description"
+                        value={this.state.description}
+                        onChange={this.handleOnChange}
+                        style={{width: "100%"}}
                         required
-                        />
-                </Form.Group>
+                    />
+                </Form.Field>
+            </div>
+              
                 <Form.Button>Submit</Form.Button>
+
+            <div className="formButton">
                 <Form.Button><a href="http://localhost:3000/heroes">Back</a></Form.Button>
                 <Form.Button><a href="http://localhost:3000/">Home</a></Form.Button>
+           </div>
             </Form>
         </div>
     )
