@@ -142,16 +142,13 @@ render() {
                 </Form.Field>
                 </div>
                 
-               <div className="formButton">
-                <Form.Button style={{color: "black"}}>Submit</Form.Button>
-               </div>
-                <br />
-               <div className="formButton">
-                <Form.Button><a href="http://localhost:3000/gods">Back</a></Form.Button>
-                <Form.Button><a href="http://localhost:3000/">Home</a></Form.Button>
-               </div>
-               
-                
+               <div className="formButtonPosition">
+                <button className="formButton">Submit</button>
+                    <br />
+                    <br />
+                    <button className="formButton"><a href="http://localhost:3001/gods">Back</a></button>
+                    <button className="formButton"><a href="http://localhost:3001/">Home</a></button>
+               </div>     
             </Form>
         </div>
     )
