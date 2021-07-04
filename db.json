@@ -1265,7 +1265,7 @@
       "description": "Theseus, great hero of Attic legend, son of Aegeus, king of Athens, and Aethra, daughter of Pittheus, king of Troezen (in Argolis), or of the sea god, Poseidon, and Aethra. Legend relates that Aegeus, being childless, was allowed by Pittheus to have a child (Theseus) by Aethra."
     }
   ],
-  "locations": [
+  "residences": [
     {
       "id": "1",
       "name": "Arcadia",
@@ -1518,7 +1518,7 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Peter_van_Halen_-_Feast_of_the_Gods.jpg"
     },
     {
-      "type": "Locations",
+      "type": "Residences",
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/View_of_the_Acropolis_from_the_summit_of_the_Areopagus_on_February_25%2C_2021.jpg"
     }
   ]
