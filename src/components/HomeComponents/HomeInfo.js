@@ -13,7 +13,7 @@ class HomeInfo extends React.Component {
          return (
             
             <Link to={`/${this.props.home.type}`} >
-             <Card>
+                <Card>
                     <Image src={ url } className="cardImage"  />
                         <Card.Content>
                             <Card.Header>
@@ -22,7 +22,7 @@ class HomeInfo extends React.Component {
                             </Card.Header>
                         </Card.Content>   
                  </Card>  
-                </Link>    
+            </Link>    
          )
      }
 
