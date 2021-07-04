@@ -143,12 +143,12 @@ render() {
                 </Form.Field>
             </div>
               
-                <Form.Button>Submit</Form.Button>
-
-            <div className="formButton">
-                <Form.Button><a href="http://localhost:3000/heroes">Back</a></Form.Button>
-                <Form.Button><a href="http://localhost:3000/">Home</a></Form.Button>
-           </div>
+                <div className="formButtonPosition">
+                    <button className="formButton">Submit</button>
+                    <br />
+                        <button className="formButton"><a href="http://localhost:3001/heroes">Back</a></button>
+                        <button className="formButton"><a href="http://localhost:3001/">Home</a></button>
+                </div>
             </Form>
         </div>
     )
