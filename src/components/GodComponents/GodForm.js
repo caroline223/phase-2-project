@@ -25,7 +25,7 @@ class GodForm extends React.Component {
     handleFormSubmit = (event) => {
         event.preventDefault()
         //creating a fetch request to add a new god to the collection of gods
-        fetch('http://localhost:5000/gods', this.postObjectFromGodCollection())
+        fetch('http://localhost:3000/gods', this.postObjectFromGodCollection())
         .then(response => response.json())
         .then(data => this.props.history.push('/gods'))
         this.setState(defaultState)
@@ -54,12 +54,12 @@ render() {
                 <div className="formField"> 
                 <Form.Field>
                     <label style={{color: 'white'}}>Image URL</label>
-                    <input 
+                    <input
                         placeholder="url"
                         name="url"
                         value={this.state.url}
                         onChange={this.handleOnChange}
-                        style={{width: "500px"}}
+                        style={{width: "100%"}}
                         required
                     />
                 </Form.Field>
@@ -70,7 +70,7 @@ render() {
                         name="name"
                         value={this.state.name}
                         onChange={this.handleOnChange}
-                        style={{width: "500px"}}
+                        style={{width: "100%"}}
                         required
                     />
                 </Form.Field>
@@ -81,7 +81,7 @@ render() {
                         name="romanname"
                         value={this.state.romanname}
                         onChange={this.handleOnChange}
-                        style={{width: "500px"}}
+                        style={{width: "100%"}}
                         required
                     />
                 </Form.Field>
@@ -92,7 +92,7 @@ render() {
                         name="symbol"
                         value={this.state.symbol}
                         onChange={this.handleOnChange}
-                        style={{width: "500px"}}
+                        style={{width: "100%"}}
                         required
                     />
                 </Form.Field>
@@ -103,7 +103,7 @@ render() {
                         name="father"
                         value={this.state.father}
                         onChange={this.handleOnChange}
-                        style={{width: "500px"}}
+                        style={{width: "100%"}}
                         required
                     />
                 </Form.Field>
@@ -114,7 +114,7 @@ render() {
                         name="mother"
                         value={this.state.mother}
                         onChange={this.handleOnChange}
-                        style={{width: "500px"}}
+                        style={{width: "100%"}}
                         required
                     />
                 </Form.Field>
@@ -125,7 +125,7 @@ render() {
                         name="power"
                         value={this.state.power}
                         onChange={this.handleOnChange}
-                        style={{width: "500px"}}
+                        style={{width: "100%"}}
                         required
                     />
                 </Form.Field>
@@ -136,7 +136,7 @@ render() {
                         name="description"
                         value={this.state.description}
                         onChange={this.handleOnChange}
-                        style={{width: "500px"}}
+                        style={{width: "100%"}}
                         required
                     />
                 </Form.Field>
