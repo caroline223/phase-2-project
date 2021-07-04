@@ -21,7 +21,7 @@ class ResidenceInfo extends React.Component {
                 <Card style={layout.card}>
                     <Image src={ url } className="cardImage"  />
                     <Card.Content className="cardDescription">
-                        <Card.Header>
+                        <Card.Header >
                         { name } 
                         </Card.Header>
                         <Card.Description >

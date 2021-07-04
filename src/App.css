@@ -15,6 +15,13 @@ h2{
     
 }
 
+header{
+    font-family:cursive;
+    text-align: center;
+    color: black;
+    font-size: 24px;  
+}
+
 .link{
     font-family:cursive;
     text-align: center;
@@ -30,7 +37,7 @@ h2{
 .formField {
     width: 60%;
     padding: 100px 50px;
-    margin: 50px 282px;
+    margin: 50px 278px;
     display:inline-block;
     border: 4px solid gold;
     border-radius: 40px;
@@ -39,10 +46,19 @@ h2{
 }
 
 .formButton {
+    background-color: black;
+    color: white;
+    font-family:cursive;
+    padding:15px;
+    border: 2px solid gold;
+    border-radius: 40px;
     text-align: center;
     
 }
 
+.formButtonPosition{
+    text-align:center;
+}
 
 
 .navBackground{
