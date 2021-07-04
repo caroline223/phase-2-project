@@ -9,7 +9,7 @@ class Home extends React.Component {
     }
 
     componentDidMount(){
-        fetch('http://localhost:5000/home')
+        fetch('http://localhost:3000/home')
         .then(response => response.json())
         .then(this.setHomePage)
     }
@@ -26,6 +26,8 @@ class Home extends React.Component {
         return (
             <>
             <h1>Ancient Greek Gods</h1>
+            <h2>Click on a card below to learn more about the gods!</h2>
+            <br />
                 <Container >
                     <HomeCollection home={this.state.home}  />
                 </Container>

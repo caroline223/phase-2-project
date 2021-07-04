@@ -19,7 +19,7 @@ function NavBar(props) {
             <Link to="/" className="navTitle">Home</Link>
             <Link to="/gods" className="navTitle">Gods</Link>
             <Link to="/heroes" className="navTitle">Heroes</Link>
-            <Link to="/locations" className="navTitle">Locations</Link>
+            <Link to="/residences" className="navTitle">Residence</Link>
         </nav>
     )
 }

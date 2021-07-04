@@ -15,7 +15,7 @@ class HeroContainer extends React.Component {
     }
 
     componentDidMount(){
-        fetch('http://localhost:5000/heroes')
+        fetch('http://localhost:3000/heroes')
         .then(response => response.json())
         .then(this.setInitialHeroes)
     }

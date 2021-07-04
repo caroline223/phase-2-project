@@ -14,7 +14,7 @@ class GodContainer extends React.Component {
     }
 
     componentDidMount(){
-        fetch('http://localhost:5000/gods')
+        fetch('http://localhost:3000/gods')
         .then(response => response.json())
         .then(this.setInitialGods)
     }
