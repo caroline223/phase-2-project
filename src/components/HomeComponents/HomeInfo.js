@@ -13,7 +13,7 @@ class HomeInfo extends React.Component {
                 backgroundColor: "white", 
                 opacity: "0.8",
                 borderRadius: "40px",
-                margin: "10px"
+                margin: "45px"
             }
         }
 
