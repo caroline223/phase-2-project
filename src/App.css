@@ -1,12 +1,18 @@
 .cardImage{
-    height: 400px;
-    width: 300px;
+    height: 300px;
+    width: 400px;
 }
 
 h1{
     font-family:cursive;
     text-align: center;
     font-size: 40pt;
+}
+
+h2{
+    font-family:cursive;
+    text-align: center;
+    
 }
 
 .link{
@@ -23,8 +29,8 @@ h1{
 
 .formField {
     width: 60%;
-    padding: 75px;
-    margin: 50px 200px;
+    padding: 100px 50px;
+    margin: 50px 282px;
     display:inline-block;
     border: 4px solid gold;
     border-radius: 40px;
