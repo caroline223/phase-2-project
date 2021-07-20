@@ -1,9 +1,7 @@
 import React from 'react';
 import { Card, Image } from 'semantic-ui-react';
 
-class GodInfo extends React.Component {
-
-    render() {
+function GodInfo() {
 
         const layout = {
             card : {
@@ -37,7 +35,6 @@ class GodInfo extends React.Component {
             </Card>
                 
         )
-    }
 
 }
 

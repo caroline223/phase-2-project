@@ -142,7 +142,7 @@ render() {
                 </Form.Field>
                 </div>
                 
-               <div className="formButtonPosition">
+               <div className="formButtonPosition˜">
                 <button className="formButton">Submit</button>
                     <br />
                     <br />
