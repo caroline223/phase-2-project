@@ -2,7 +2,7 @@
 
 In this project, if you are intrigued, you will learn a great deal of information about the Greek/Roman gods such as their symbols, power, their origin, as well as their place of residence. Trust me, after looking through my app, you will become a Greek expert! Don't be shy! Give it a try!
 
-<img src="https://www.giantbomb.com/a/uploads/scale_small/1/17172/1443469-zeus_by_thegryph.jpg" alt="Greek Gods" />
+<img src="https://www.giantbomb.com/a/uploads/scale_small/1/17172/1443469-zeus_by_thegryph.jpg" alt="Greek Gods" height="300" width="250" />
 
 ## Getting Started with Create React App
 
