@@ -1,6 +1,6 @@
 import React from 'react';
-import ResidenceCollection from '../components/LocationComponents/ResidenceCollection';
-import ResidenceSearch from '../components/LocationComponents/ResidenceSearch'
+import ResidenceCollection from '../components/ResidenceComponents/ResidenceCollection';
+import ResidenceSearch from '../components/ResidenceComponents/ResidenceSearch'
 import NavBar from './NavBar';
 import { Container } from 'semantic-ui-react';
 
