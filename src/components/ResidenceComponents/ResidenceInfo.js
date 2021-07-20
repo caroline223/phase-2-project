@@ -2,11 +2,8 @@ import React from 'react'
 import { Card, Image } from 'semantic-ui-react'
 
 
-class ResidenceInfo extends React.Component {
+function ResidenceInfo (){
     
-
-    render() {
-
         const layout = {
             card : {
                 backgroundColor: "#bec7a6", 
@@ -37,8 +34,6 @@ class ResidenceInfo extends React.Component {
                     </Card.Content>
                 </Card>
         )
-    }
-
 }
 
 export default ResidenceInfo;
