@@ -1,8 +1,9 @@
 import React from 'react';
 import { Card, Image } from 'semantic-ui-react';
 
-function GodInfo() {
+class GodInfo extends React.Component {
 
+    render() {
         const layout = {
             card : {
                 backgroundColor: "#bec7a6", 
@@ -35,7 +36,9 @@ function GodInfo() {
             </Card>
                 
         )
+    }
 
+       
 }
 
 export default GodInfo;
