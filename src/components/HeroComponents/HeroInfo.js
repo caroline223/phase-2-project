@@ -1,7 +1,18 @@
 import React from 'react';
 import { Card, Image } from 'semantic-ui-react';
+import HeroVote from '../HeroComponents/HeroVote';
 
 class  HeroInfo extends React.Component {
+
+    state = {
+        count: 0
+    }
+
+    increaseVote = () => {
+        this.setState(({count}) => ({
+            count: count + 1
+        }))
+    }
 
     render() {
         const layout = {
@@ -30,6 +41,7 @@ class  HeroInfo extends React.Component {
                         Power: { power }
                         <br />
                         Description: { description }
+                        <HeroVote count={this.state.count} increaseVote={this.increaseVote} />
                     </Card.Description>
                 </Card.Content>
             </Card>
