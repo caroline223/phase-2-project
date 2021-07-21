@@ -3,8 +3,9 @@ import { Image, Card } from 'semantic-ui-react'
 import { Link } from 'react-router-dom'
 
 
-function HomeInfo() {
+class HomeInfo extends React.Component {
 
+    render(){
         const layout = {
             card : {
                 backgroundColor: "white", 
@@ -30,6 +31,9 @@ function HomeInfo() {
                  </Card>  
             </Link>    
          )
+    }
+
+        
 }
 
 export default HomeInfo
