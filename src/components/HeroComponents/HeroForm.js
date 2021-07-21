@@ -146,6 +146,7 @@ render() {
                 <div className="formButtonPosition">
                     <button className="formButton">Submit</button>
                     <br />
+                    <br />
                         <button className="formButton"><a href="http://localhost:3001/heroes">Back</a></button>
                         <button className="formButton"><a href="http://localhost:3001/">Home</a></button>
                 </div>
