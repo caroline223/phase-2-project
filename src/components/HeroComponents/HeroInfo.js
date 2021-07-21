@@ -1,8 +1,9 @@
 import React from 'react';
 import { Card, Image } from 'semantic-ui-react';
 
-function HeroInfo() {
+class  HeroInfo extends React.Component {
 
+    render() {
         const layout = {
             card : {
                 backgroundColor: "#bec7a6", 
@@ -34,6 +35,8 @@ function HeroInfo() {
             </Card>
                 
         )
+    }
+   
 }
 
 export default HeroInfo;
