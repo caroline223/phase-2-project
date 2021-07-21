@@ -24,14 +24,14 @@ class Home extends React.Component {
 
     render() {
         return (
-            <>
-            <h1>Ancient Greek Gods</h1>
-            <h2>Click on a card below to learn more about the gods!</h2>
-            <br />
-                <Container >
-                    <HomeCollection home={this.state.home}  />
-                </Container>
-            </>
+                <>
+                <h1>Ancient Greek Gods</h1>
+                <h2>Click on a card below to learn more about the gods!</h2>
+                <br />
+                    <Container >
+                        <HomeCollection home={this.state.home}  />
+                    </Container>
+                </>
         )
     }
 
